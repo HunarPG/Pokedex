@@ -3,7 +3,6 @@
 
 #include <QMainWindow>
 #include <QMessageBox>
-#include "aboutpokedex.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
