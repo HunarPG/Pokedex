@@ -19,3 +19,10 @@ void MainWindow::on_actionAbout_Qt_triggered()
     QMessageBox::aboutQt(this);
 }
 
+
+void MainWindow::on_actionAbout_Pokedex_triggered()
+{
+    aboutpokedex newdialog;
+    newdialog.setModal(true);
+    newdialog.exec();
+}

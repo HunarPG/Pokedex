@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QMessageBox>
+#include "aboutpokedex.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -20,6 +21,7 @@ public:
 
 private slots:
     void on_actionAbout_Qt_triggered();
+    void on_actionAbout_Pokedex_triggered();
 
 private:
     Ui::MainWindow *ui;

@@ -17,6 +17,9 @@ set(PROJECT_SOURCES
         src/mainwindow.cpp
         include/mainwindow.h
         forms/mainwindow.ui
+        src/aboutpokedex.cpp
+        include/aboutpokedex.h
+        forms/aboutpokedex.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
