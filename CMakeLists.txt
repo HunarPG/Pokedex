@@ -15,11 +15,14 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 set(PROJECT_SOURCES
         src/main.cpp
         src/ui/mainwindow.cpp
-        include/ui/mainwindow.h
-        forms/mainwindow.ui
         src/ui/aboutpokedex.cpp
+        src/ui/bulbasaur.cpp
+        include/ui/mainwindow.h
         include/ui/aboutpokedex.h
+        include/ui/bulbasaur.h
+        forms/mainwindow.ui
         forms/aboutpokedex.ui
+        forms/bulbasaur.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

@@ -23,6 +23,7 @@ public:
 private slots:
     void on_actionAbout_Qt_triggered();
     void on_actionAbout_Pokedex_triggered();
+    void on_pushButton_PokemonData_clicked();
 
 private:
     Ui::MainWindow *ui;
