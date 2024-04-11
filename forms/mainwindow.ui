@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>466</width>
-    <height>397</height>
+    <width>386</width>
+    <height>318</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -32,28 +32,6 @@
        <widget class="QPushButton" name="pushButton_PokemonData">
         <property name="text">
          <string>Show Pokemon Data</string>
-        </property>
-       </widget>
-      </item>
-     </layout>
-    </item>
-    <item>
-     <layout class="QVBoxLayout" name="verticalLayout_2">
-      <item>
-       <layout class="QHBoxLayout" name="horizontalLayout_2">
-        <item>
-         <widget class="QComboBox" name="comboBox_Item">
-          <property name="editable">
-           <bool>true</bool>
-          </property>
-         </widget>
-        </item>
-       </layout>
-      </item>
-      <item>
-       <widget class="QPushButton" name="pushButton_ItemData">
-        <property name="text">
-         <string>Show Item Data</string>
         </property>
        </widget>
       </item>
@@ -88,7 +66,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>466</width>
+     <width>386</width>
      <height>23</height>
     </rect>
    </property>
