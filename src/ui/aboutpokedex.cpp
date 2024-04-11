@@ -1,5 +1,5 @@
-#include "../include/aboutpokedex.h"
-#include "../forms/ui_aboutpokedex.h"
+#include "../../include/ui/aboutpokedex.h"
+#include "../../forms/ui_aboutpokedex.h"
 
 aboutpokedex::aboutpokedex(QWidget *parent)
     : QDialog(parent)

@@ -1,7 +1,7 @@
-#include "../include/mainwindow.h"
-#include "../forms/ui_mainwindow.h"
+#include "../../include/ui/mainwindow.h"
+#include "../../forms/ui_mainwindow.h"
 #include <qmessagebox.h>
-#include "../include/aboutpokedex.h"
+#include "../../include/ui/aboutpokedex.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)

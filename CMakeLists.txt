@@ -14,11 +14,11 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
         src/main.cpp
-        src/mainwindow.cpp
-        include/mainwindow.h
+        src/ui/mainwindow.cpp
+        include/ui/mainwindow.h
         forms/mainwindow.ui
-        src/aboutpokedex.cpp
-        include/aboutpokedex.h
+        src/ui/aboutpokedex.cpp
+        include/ui/aboutpokedex.h
         forms/aboutpokedex.ui
 )
 
