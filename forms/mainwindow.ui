@@ -23,8 +23,26 @@
      <height>23</height>
     </rect>
    </property>
+   <widget class="QMenu" name="menuAbout">
+    <property name="title">
+     <string>About</string>
+    </property>
+    <addaction name="actionAbout_Pokedex"/>
+    <addaction name="actionAbout_Qt"/>
+   </widget>
+   <addaction name="menuAbout"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionAbout_Pokedex">
+   <property name="text">
+    <string>About Pokedex</string>
+   </property>
+  </action>
+  <action name="actionAbout_Qt">
+   <property name="text">
+    <string>About Qt</string>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>
