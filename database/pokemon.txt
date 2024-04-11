@@ -26,10 +26,10 @@ Pikachu
 Raichu
 Sandshrew
 Sandslash
-Nidoran Female
+Nidoran female
 Nidorina
 Nidoqueen
-Nidoran Male
+Nidoran male
 Nidorino
 Nidoking
 Clefairy
