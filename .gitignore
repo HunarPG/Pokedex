@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Qt Creator generated files
+*.txt.user
+
+# Build Files
+build/
+
+# Cache Files
+.cache/
