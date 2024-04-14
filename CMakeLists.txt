@@ -23,6 +23,7 @@ set(PROJECT_SOURCES
         forms/mainwindow.ui
         forms/aboutpokedex.ui
         forms/bulbasaur.ui
+        resources/database/Database.qrc
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

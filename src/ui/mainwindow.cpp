@@ -13,7 +13,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
 
     // Opens the pokemon.txt files from database folder and stores it's entire list in a combo box
-    QFile pokemonDatabaseFile("../database/pokemon.txt");
+    QFile pokemonDatabaseFile(":/database/pokemon.txt");
     QTextStream pokemonNames(&pokemonDatabaseFile);
     pokemonDatabaseFile.open(QFile::ReadOnly | QFile::Text);
     
@@ -23,7 +23,7 @@ MainWindow::MainWindow(QWidget *parent)
     pokemonDatabaseFile.close();
 
     // Opens the move.txt files from database folder and stores it's entire list in a combo box
-    QFile moveDatabseFile("../database/move.txt");
+    QFile moveDatabseFile(":/database/move.txt");
     QTextStream moveNames(&moveDatabseFile);
     moveDatabseFile.open(QFile::ReadOnly | QFile::Text);
     

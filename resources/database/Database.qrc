@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/database">
+        <file>move.txt</file>
+        <file>pokemon.txt</file>
+    </qresource>
+</RCC>
