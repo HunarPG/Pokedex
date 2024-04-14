@@ -12,7 +12,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
 
-    // Opens the pokemon.txt files from database folder and stores it's entire list in a combo box
+    // Opens the pokemon.txt files from resources/database folder and stores it's entire list in a combo box
     QFile pokemonDatabaseFile(":/database/pokemon.txt");
     QTextStream pokemonNames(&pokemonDatabaseFile);
     pokemonDatabaseFile.open(QFile::ReadOnly | QFile::Text);
@@ -22,7 +22,7 @@ MainWindow::MainWindow(QWidget *parent)
     }
     pokemonDatabaseFile.close();
 
-    // Opens the move.txt files from database folder and stores it's entire list in a combo box
+    // Opens the move.txt files from resources/database folder and stores it's entire list in a combo box
     QFile moveDatabseFile(":/database/move.txt");
     QTextStream moveNames(&moveDatabseFile);
     moveDatabseFile.open(QFile::ReadOnly | QFile::Text);
@@ -31,6 +31,16 @@ MainWindow::MainWindow(QWidget *parent)
         ui->comboBox_Move->addItem(moveNames.readLine());
     }
     moveDatabseFile.close();
+
+    // Opens the ability.txt files from resources/database folder and stores it's entire list in a combo box
+    QFile abilityDatabseFile(":/database/ability.txt");
+    QTextStream abilityNames(&abilityDatabseFile);
+    abilityDatabseFile.open(QFile::ReadOnly | QFile::Text);
+    
+    for(int i = 0; i<314; i++){
+        ui->combobox_Ability->addItem(abilityNames.readLine());
+    }
+    abilityDatabseFile.close();
 }
 
 MainWindow::~MainWindow()

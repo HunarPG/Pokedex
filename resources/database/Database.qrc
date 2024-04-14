@@ -2,5 +2,6 @@
     <qresource prefix="/database">
         <file>move.txt</file>
         <file>pokemon.txt</file>
+        <file>ability.txt</file>
     </qresource>
 </RCC>

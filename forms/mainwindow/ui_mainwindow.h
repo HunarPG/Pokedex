@@ -13,7 +13,6 @@
 #include <QtGui/QAction>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QComboBox>
-#include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenu>
 #include <QtWidgets/QMenuBar>
@@ -30,15 +29,16 @@ public:
     QAction *actionAbout_Pokedex;
     QAction *actionAbout_Qt;
     QWidget *centralwidget;
-    QVBoxLayout *verticalLayout_4;
     QVBoxLayout *verticalLayout;
-    QHBoxLayout *horizontalLayout;
+    QVBoxLayout *verticalLayout_Pokemon;
     QComboBox *comboBox_Pokemon;
     QPushButton *pushButton_PokemonData;
-    QVBoxLayout *verticalLayout_3;
-    QHBoxLayout *horizontalLayout_3;
+    QVBoxLayout *verticalLayout_Move;
     QComboBox *comboBox_Move;
     QPushButton *pushButton_MoveData;
+    QVBoxLayout *verticalLayout_Ability;
+    QComboBox *combobox_Ability;
+    QPushButton *pushButton_AbilityData;
     QMenuBar *menubar;
     QMenu *menuAbout;
     QStatusBar *statusbar;
@@ -47,61 +47,67 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName("MainWindow");
-        MainWindow->resize(386, 318);
+        MainWindow->resize(549, 426);
         actionAbout_Pokedex = new QAction(MainWindow);
         actionAbout_Pokedex->setObjectName("actionAbout_Pokedex");
         actionAbout_Qt = new QAction(MainWindow);
         actionAbout_Qt->setObjectName("actionAbout_Qt");
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
-        verticalLayout_4 = new QVBoxLayout(centralwidget);
-        verticalLayout_4->setObjectName("verticalLayout_4");
-        verticalLayout = new QVBoxLayout();
+        verticalLayout = new QVBoxLayout(centralwidget);
         verticalLayout->setObjectName("verticalLayout");
-        horizontalLayout = new QHBoxLayout();
-        horizontalLayout->setObjectName("horizontalLayout");
+        verticalLayout_Pokemon = new QVBoxLayout();
+        verticalLayout_Pokemon->setObjectName("verticalLayout_Pokemon");
         comboBox_Pokemon = new QComboBox(centralwidget);
         comboBox_Pokemon->setObjectName("comboBox_Pokemon");
         comboBox_Pokemon->setEditable(true);
 
-        horizontalLayout->addWidget(comboBox_Pokemon);
-
-
-        verticalLayout->addLayout(horizontalLayout);
+        verticalLayout_Pokemon->addWidget(comboBox_Pokemon);
 
         pushButton_PokemonData = new QPushButton(centralwidget);
         pushButton_PokemonData->setObjectName("pushButton_PokemonData");
 
-        verticalLayout->addWidget(pushButton_PokemonData);
+        verticalLayout_Pokemon->addWidget(pushButton_PokemonData);
 
 
-        verticalLayout_4->addLayout(verticalLayout);
+        verticalLayout->addLayout(verticalLayout_Pokemon);
 
-        verticalLayout_3 = new QVBoxLayout();
-        verticalLayout_3->setObjectName("verticalLayout_3");
-        horizontalLayout_3 = new QHBoxLayout();
-        horizontalLayout_3->setObjectName("horizontalLayout_3");
+        verticalLayout_Move = new QVBoxLayout();
+        verticalLayout_Move->setObjectName("verticalLayout_Move");
         comboBox_Move = new QComboBox(centralwidget);
         comboBox_Move->setObjectName("comboBox_Move");
         comboBox_Move->setEditable(true);
 
-        horizontalLayout_3->addWidget(comboBox_Move);
-
-
-        verticalLayout_3->addLayout(horizontalLayout_3);
+        verticalLayout_Move->addWidget(comboBox_Move);
 
         pushButton_MoveData = new QPushButton(centralwidget);
         pushButton_MoveData->setObjectName("pushButton_MoveData");
 
-        verticalLayout_3->addWidget(pushButton_MoveData);
+        verticalLayout_Move->addWidget(pushButton_MoveData);
 
 
-        verticalLayout_4->addLayout(verticalLayout_3);
+        verticalLayout->addLayout(verticalLayout_Move);
+
+        verticalLayout_Ability = new QVBoxLayout();
+        verticalLayout_Ability->setObjectName("verticalLayout_Ability");
+        combobox_Ability = new QComboBox(centralwidget);
+        combobox_Ability->setObjectName("combobox_Ability");
+        combobox_Ability->setEditable(true);
+
+        verticalLayout_Ability->addWidget(combobox_Ability);
+
+        pushButton_AbilityData = new QPushButton(centralwidget);
+        pushButton_AbilityData->setObjectName("pushButton_AbilityData");
+
+        verticalLayout_Ability->addWidget(pushButton_AbilityData);
+
+
+        verticalLayout->addLayout(verticalLayout_Ability);
 
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 386, 23));
+        menubar->setGeometry(QRect(0, 0, 549, 23));
         menuAbout = new QMenu(menubar);
         menuAbout->setObjectName("menuAbout");
         MainWindow->setMenuBar(menubar);
@@ -125,6 +131,7 @@ public:
         actionAbout_Qt->setText(QCoreApplication::translate("MainWindow", "About &Qt", nullptr));
         pushButton_PokemonData->setText(QCoreApplication::translate("MainWindow", "Show Pokemon Data", nullptr));
         pushButton_MoveData->setText(QCoreApplication::translate("MainWindow", "Show Move Data", nullptr));
+        pushButton_AbilityData->setText(QCoreApplication::translate("MainWindow", "Show Ability Data", nullptr));
         menuAbout->setTitle(QCoreApplication::translate("MainWindow", "About", nullptr));
     } // retranslateUi
 

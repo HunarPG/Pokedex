@@ -1,91 +1,91 @@
 Pound
-Karate chop
-Double slap
-Comet punch
-Mega punch
-Pay day
-Fire punch
-Ice punch
-Thunder punch
+Karate Chop
+Double Slap
+Comet Punch
+Mega Punch
+Pay Day
+Fire Punch
+Ice Punch
+Thunder Punch
 Scratch
-Vise grip
+Vise Grip
 Guillotine
-Razor wind
-Swords dance
+Razor Wind
+Swords Dance
 Cut
 Gust
-Wing attack
+Wing Attack
 Whirlwind
 Fly
 Bind
 Slam
-Vine whip
+Vine Whip
 Stomp
-Double kick
-Mega kick
-Jump kick
-Rolling kick
-Sand attack
+Double Kick
+Mega Kick
+Jump Kick
+Rolling Kick
+Sand Attack
 Headbutt
-Horn attack
-Fury attack
-Horn drill
+Horn Attack
+Fury Attack
+Horn Drill
 Tackle
-Body slam
+Body Slam
 Wrap
-Take down
+Take Down
 Thrash
-Double edge
-Tail whip
-Poison sting
+Double Edge
+Tail Whip
+Poison Sting
 Twineedle
-Pin missile
+Pin Missile
 Leer
 Bite
 Growl
 Roar
 Sing
 Supersonic
-Sonic boom
+Sonic Boom
 Disable
 Acid
 Ember
 Flamethrower
 Mist
-Water gun
-Hydro pump
+Water Gun
+Hydro Pump
 Surf
-Ice beam
+Ice Beam
 Blizzard
 Psybeam
-Bubble beam
-Aurora beam
-Hyper beam
+Bubble Beam
+Aurora Beam
+Hyper Beam
 Peck
-Drill peck
+Drill Peck
 Submission
-Low kick
+Low Kick
 Counter
-Seismic toss
+Seismic Toss
 Strength
 Absorb
-Mega drain
-Leech seed
+Mega Drain
+Leech Seed
 Growth
-Razor leaf
-Solar beam
-Poison powder
-Stun spore
-Sleep powder
-Petal dance
-String shot
-Dragon rage
-Fire spin
-Thunder shock
+Razor Leaf
+Solar Beam
+Poison Powder
+Stun Spore
+Sleep Powder
+Petal Dance
+String Shot
+Dragon Rage
+Fire Spin
+Thunder Shock
 Thunderbolt
-Thunder wave
+Thunder Wave
 Thunder
-Rock throw
+Rock Throw
 Earthquake
 Fissure
 Dig
@@ -95,840 +95,840 @@ Psychic
 Hypnosis
 Meditate
 Agility
-Quick attack
+Quick Attack
 Rage
 Teleport
-Night shade
+Night Shade
 Mimic
 Screech
-Double team
+Double Team
 Recover
 Harden
 Minimize
 Smokescreen
-Confuse ray
+Confuse Ray
 Withdraw
-Defense curl
+Defense Curl
 Barrier
-Light screen
+Light Screen
 Haze
 Reflect
-Focus energy
+Focus Energy
 Bide
 Metronome
-Mirror move
-Self destruct
-Egg bomb
+Mirror Move
+Self Destruct
+Egg Bomb
 Lick
 Smog
 Sludge
-Bone club
-Fire blast
+Bone Club
+Fire Blast
 Waterfall
 Clamp
 Swift
-Skull bash
-Spike cannon
+Skull Bash
+Spike Cannon
 Constrict
 Amnesia
 Kinesis
-Soft boiled
-High jump kick
+Soft Boiled
+High Jump Kick
 Glare
-Dream eater
-Poison gas
+Dream Eater
+Poison Gas
 Barrage
-Leech life
-Lovely kiss
-Sky attack
+Leech Life
+Lovely Kiss
+Sky Attack
 Transform
 Bubble
-Dizzy punch
+Dizzy Punch
 Spore
 Flash
 Psywave
 Splash
-Acid armor
+Acid Armor
 Crabhammer
 Explosion
-Fury swipes
+Fury Swipes
 Bonemerang
 Rest
-Rock slide
-Hyper fang
+Rock Slide
+Hyper Fang
 Sharpen
 Conversion
-Tri attack
-Super fang
+Tri Attack
+Super Fang
 Slash
 Substitute
 Struggle
 Sketch
-Triple kick
+Triple Kick
 Thief
-Spider web
-Mind reader
+Spider Web
+Mind Reader
 Nightmare
-Flame wheel
+Flame Wheel
 Snore
 Curse
 Flail
 Conversion 
 Aeroblast
-Cotton spore
+Cotton Spore
 Reversal
 Spite
-Powder snow
+Powder Snow
 Protect
-Mach punch
-Scary face
-Feint attack
-Sweet kiss
-Belly drum
-Sludge bomb
-Mud slap
+Mach Punch
+Scary Face
+Feint Attack
+Sweet Kiss
+Belly Drum
+Sludge Bomb
+Mud Slap
 Octazooka
 Spikes
-Zap cannon
+Zap Cannon
 Foresight
-Destiny bond
-Perish song
-Icy wind
+Destiny Bond
+Perish Song
+Icy Wind
 Detect
-Bone rush
-Lock on
+Bone Rush
+Lock On
 Outrage
 Sandstorm
-Giga drain
+Giga Drain
 Endure
 Charm
 Rollout
-False swipe
+False Swipe
 Swagger
-Milk drink
+Milk Drink
 Spark
-Fury cutter
-Steel wing
-Mean look
+Fury Cutter
+Steel Wing
+Mean Look
 Attract
-Sleep talk
-Heal bell
+Sleep Talk
+Heal Bell
 Return
 Present
 Frustration
 Safeguard
-Pain split
-Sacred fire
+Pain Split
+Sacred Fire
 Magnitude
-Dynamic punch
+Dynamic Punch
 Megahorn
-Dragon breath
-Baton pass
+Dragon Breath
+Baton Pass
 Encore
 Pursuit
-Rapid spin
-Sweet scent
-Iron tail
-Metal claw
-Vital throw
-Morning sun
+Rapid Spin
+Sweet Scent
+Iron Tail
+Metal Claw
+Vital Throw
+Morning Sun
 Synthesis
 Moonlight
-Hidden power
-Cross chop
+Hidden Power
+Cross Chop
 Twister
-Rain dance
-Sunny day
+Rain Dance
+Sunny Day
 Crunch
-Mirror coat
-Psych up
-Extreme speed
-Ancient power
-Shadow ball
-Future sight
-Rock smash
+Mirror Coat
+Psych Up
+Extreme Speed
+Ancient Power
+Shadow Ball
+Future Sight
+Rock Smash
 Whirlpool
-Beat up
-Fake out
+Beat Up
+Fake Out
 Uproar
 Stockpile
-Spit up
+Spit Up
 Swallow
-Heat wave
+Heat Wave
 Hail
 Torment
 Flatter
-Will o wisp
+Will O Wisp
 Memento
 Facade
-Focus punch
-Smelling salts
-Follow me
-Nature power
+Focus Punch
+Smelling Salts
+Follow Me
+Nature Power
 Charge
 Taunt
-Helping hand
+Helping Hand
 Trick
-Role play
+Role Play
 Wish
 Assist
 Ingrain
 Superpower
-Magic coat
+Magic Coat
 Recycle
 Revenge
-Brick break
+Brick Break
 Yawn
-Knock off
+Knock Off
 Endeavor
 Eruption
-Skill swap
+Skill Swap
 Imprison
 Refresh
 Grudge
 Snatch
-Secret power
+Secret Power
 Dive
-Arm thrust
+Arm Thrust
 Camouflage
-Tail glow
-Luster purge
-Mist ball
-Feather dance
-Teeter dance
-Blaze kick
-Mud sport
-Ice ball
-Needle arm
-Slack off
-Hyper voice
-Poison fang
-Crush claw
-Blast burn
-Hydro cannon
-Meteor mash
+Tail Glow
+Luster Purge
+Mist Ball
+Feather Dance
+Teeter Dance
+Blaze Kick
+Mud Sport
+Ice Ball
+Needle Arm
+Slack Off
+Hyper Voice
+Poison Fang
+Crush Claw
+Blast Burn
+Hydro Cannon
+Meteor Mash
 Astonish
-Weather ball
+Weather Ball
 Aromatherapy
-Fake tears
-Air cutter
+Fake Tears
+Air Cutter
 Overheat
-Odor sleuth
-Rock tomb
-Silver wind
-Metal sound
-Grass whistle
+Odor Sleuth
+Rock Tomb
+Silver Wind
+Metal Sound
+Grass Whistle
 Tickle
-Cosmic power
-Water spout
-Signal beam
-Shadow punch
+Cosmic Power
+Water Spout
+Signal Beam
+Shadow Punch
 Extrasensory
-Sky uppercut
-Sand tomb
-Sheer cold
-Muddy water
-Bullet seed
-Aerial ace
-Icicle spear
-Iron defense
+Sky Uppercut
+Sand Tomb
+Sheer Cold
+Muddy Water
+Bullet Seed
+Aerial Ace
+Icicle Spear
+Iron Defense
 Block
 Howl
-Dragon claw
-Frenzy plant
-Bulk up
+Dragon Claw
+Frenzy Plant
+Bulk Up
 Bounce
-Mud shot
-Poison tail
+Mud Shot
+Poison Tail
 Covet
-Volt tackle
-Magical leaf
-Water sport
-Calm mind
-Leaf blade
-Dragon dance
-Rock blast
-Shock wave
-Water pulse
-Doom desire
-Psycho boost
+Volt Tackle
+Magical Leaf
+Water Sport
+Calm Mind
+Leaf Blade
+Dragon Dance
+Rock Blast
+Shock Wave
+Water Pulse
+Doom Desire
+Psycho Boost
 Roost
 Gravity
-Miracle eye
-Wake up slap
-Hammer arm
-Gyro ball
-Healing wish
+Miracle Eye
+Wake Up Slap
+Hammer Arm
+Gyro Ball
+Healing Wish
 Brine
-Natural gift
+Natural Gift
 Feint
 Pluck
 Tailwind
 Acupressure
-Metal burst
-U turn
-Close combat
+Metal Burst
+U Turn
+Close Combat
 Payback
 Assurance
 Embargo
 Fling
-Psycho shift
-Trump card
-Heal block
-Wring out
-Power trick
-Gastro acid
-Lucky chant
-Me first
+Psycho Shift
+Trump Card
+Heal Block
+Wring Out
+Power Trick
+Gastro Acid
+Lucky Chant
+Me First
 Copycat
-Power swap
-Guard swap
+Power Swap
+Guard Swap
 Punishment
-Last resort
-Worry seed
-Sucker punch
-Toxic spikes
-Heart swap
-Aqua ring
-Magnet rise
-Flare blitz
-Force palm
-Aura sphere
-Rock polish
-Poison jab
-Dark pulse
-Night slash
-Aqua tail
-Seed bomb
-Air slash
-X scissor
-Bug buzz
-Dragon pulse
-Dragon rush
-Power gem
-Drain punch
-Vacuum wave
-Focus blast
-Energy ball
-Brave bird
-Earth power
+Last Resort
+Worry Seed
+Sucker Punch
+Toxic Spikes
+Heart Swap
+Aqua Ring
+Magnet Rise
+Flare Blitz
+Force Palm
+Aura Sphere
+Rock Polish
+Poison Jab
+Dark Pulse
+Night Slash
+Aqua Tail
+Seed Bomb
+Air Slash
+X Scissor
+Bug Buzz
+Dragon Pulse
+Dragon Rush
+Power Gem
+Drain Punch
+Vacuum Wave
+Focus Blast
+Energy Ball
+Brave Bird
+Earth Power
 Switcheroo
-Giga impact
-Nasty plot
-Bullet punch
+Giga Impact
+Nasty Plot
+Bullet Punch
 Avalanche
-Ice shard
-Shadow claw
-Thunder fang
-Ice fang
-Fire fang
-Shadow sneak
-Mud bomb
-Psycho cut
-Zen headbutt
-Mirror shot
-Flash cannon
-Rock climb
+Ice Shard
+Shadow Claw
+Thunder Fang
+Ice Fang
+Fire Fang
+Shadow Sneak
+Mud Bomb
+Psycho Cut
+Zen Headbutt
+Mirror Shot
+Flash Cannon
+Rock Climb
 Defog
-Trick room
-Draco meteor
+Trick Room
+Draco Meteor
 Discharge
-Lava plume
-Leaf storm
-Power whip
-Rock wrecker
-Cross poison
-Gunk shot
-Iron head
-Magnet bomb
-Stone edge
+Lava Plume
+Leaf Storm
+Power Whip
+Rock Wrecker
+Cross Poison
+Gunk Shot
+Iron Head
+Magnet Bomb
+Stone Edge
 Captivate
-Stealth rock
-Grass knot
+Stealth Rock
+Grass Knot
 Chatter
 Judgment
-Bug bite
-Charge beam
-Wood hammer
-Aqua jet
-Attack order
-Defend order
-Heal order
-Head smash
-Double hit
-Roar of time
-Spacial rend
-Lunar dance
-Crush grip
-Magma storm
-Dark void
-Seed flare
-Ominous wind
-Shadow force
-Hone claws
-Wide guard
-Guard split
-Power split
-Wonder room
+Bug Bite
+Charge Beam
+Wood Hammer
+Aqua Jet
+Attack Order
+Defend Order
+Heal Order
+Head Smash
+Double Hit
+Roar Of Time
+Spacial Rend
+Lunar Dance
+Crush Grip
+Magma Storm
+Dark Void
+Seed Flare
+Ominous Wind
+Shadow Force
+Hone Claws
+Wide Guard
+Guard Split
+Power Split
+Wonder Room
 Psyshock
 Venoshock
 Autotomize
-Rage powder
+Rage Powder
 Telekinesis
-Magic room
-Smack down
-Storm throw
-Flame burst
-Sludge wave
-Quiver dance
-Heavy slam
+Magic Room
+Smack Down
+Storm Throw
+Flame Burst
+Sludge Wave
+Quiver Dance
+Heavy Slam
 Synchronoise
-Electro ball
+Electro Ball
 Soak
-Flame charge
+Flame Charge
 Coil
-Low sweep
-Acid spray
-Foul play
-Simple beam
+Low Sweep
+Acid Spray
+Foul Play
+Simple Beam
 Entrainment
-After you
+After You
 Round
-Echoed voice
-Chip away
-Clear smog
-Stored power
-Quick guard
-Ally switch
+Echoed Voice
+Chip Away
+Clear Smog
+Stored Power
+Quick Guard
+Ally Switch
 Scald
-Shell smash
-Heal pulse
+Shell Smash
+Heal Pulse
 Hex
-Sky drop
-Shift gear
-Circle throw
+Sky Drop
+Shift Gear
+Circle Throw
 Incinerate
 Quash
 Acrobatics
-Reflect type
+Reflect Type
 Retaliate
-Final gambit
+Final Gambit
 Bestow
 Inferno
-Water pledge
-Fire pledge
-Grass pledge
-Volt switch
-Struggle bug
+Water Pledge
+Fire Pledge
+Grass Pledge
+Volt Switch
+Struggle Bug
 Bulldoze
-Frost breath
-Dragon tail
-Work up
+Frost Breath
+Dragon Tail
+Work Up
 Electroweb
-Wild charge
-Drill run
-Dual chop
-Heart stamp
-Horn leech
-Sacred sword
-Razor shell
-Heat crash
-Leaf tornado
+Wild Charge
+Drill Run
+Dual Chop
+Heart Stamp
+Horn Leech
+Sacred Sword
+Razor Shell
+Heat Crash
+Leaf Tornado
 Steamroller
-Cotton guard
-Night daze
+Cotton Guard
+Night Daze
 Psystrike
-Tail slap
+Tail Slap
 Hurricane
-Head charge
-Gear grind
-Searing shot
-Techno blast
-Relic song
-Secret sword
+Head Charge
+Gear Grind
+Searing Shot
+Techno Blast
+Relic Song
+Secret Sword
 Glaciate
-Bolt strike
-Blue flare
-Fiery dance
-Freeze shock
-Ice burn
+Bolt Strike
+Blue Flare
+Fiery Dance
+Freeze Shock
+Ice Burn
 Snarl
-Icicle crash
-V create
-Fusion flare
-Fusion bolt
-Flying press
-Mat block
+Icicle Crash
+V Create
+Fusion Flare
+Fusion Bolt
+Flying Press
+Mat Block
 Belch
 Rototiller
-Sticky web
-Fell stinger
-Phantom force
-Trick or treat
-Noble roar
-Ion deluge
-Parabolic charge
-Forests curse
-Petal blizzard
-Freeze dry
-Disarming voice
-Parting shot
-Topsy turvy
-Draining kiss
-Crafty shield
-Flower shield
-Grassy terrain
-Misty terrain
+Sticky Web
+Fell Stinger
+Phantom Force
+Trick Or Treat
+Noble Roar
+Ion Deluge
+Parabolic Charge
+Forests Curse
+Petal Blizzard
+Freeze Dry
+Disarming Voice
+Parting Shot
+Topsy Turvy
+Draining Kiss
+Crafty Shield
+Flower Shield
+Grassy Terrain
+Misty Terrain
 Electrify
-Play rough
-Fairy wind
+Play Rough
+Fairy Wind
 Moonblast
 Boomburst
-Fairy lock
-Kings shield
-Play nice
+Fairy Lock
+Kings Shield
+Play Nice
 Confide
-Diamond storm
-Steam eruption
-Hyperspace hole
-Water shuriken
-Mystical fire
-Spiky shield
-Aromatic mist
-Eerie impulse
-Venom drench
+Diamond Storm
+Steam Eruption
+Hyperspace Hole
+Water Shuriken
+Mystical Fire
+Spiky Shield
+Aromatic Mist
+Eerie Impulse
+Venom Drench
 Powder
 Geomancy
-Magnetic flux
-Happy hour
-Electric terrain
-Dazzling gleam
+Magnetic Flux
+Happy Hour
+Electric Terrain
+Dazzling Gleam
 Celebrate
-Hold hands
-Baby doll eyes
+Hold Hands
+Baby Doll Eyes
 Nuzzle
-Hold back
+Hold Back
 Infestation
-Power up punch
-Oblivion wing
-Thousand arrows
-Thousand waves
-Lands wrath
-Light of ruin
-Origin pulse
-Precipice blades
-Dragon ascent
-Hyperspace fury
-Shore up
-First impression
-Baneful bunker
-Spirit shackle
-Darkest lariat
-Sparkling aria
-Ice hammer
-Floral healing
-High horsepower
-Strength sap
-Solar blade
+Power Up Punch
+Oblivion Wing
+Thousand Arrows
+Thousand Waves
+Lands Wrath
+Light Of Ruin
+Origin Pulse
+Precipice Blades
+Dragon Ascent
+Hyperspace Fury
+Shore Up
+First Impression
+Baneful Bunker
+Spirit Shackle
+Darkest Lariat
+Sparkling Aria
+Ice Hammer
+Floral Healing
+High Horsepower
+Strength Sap
+Solar Blade
 Leafage
 Spotlight
-Toxic thread
-Laser focus
-Gear up
-Throat chop
-Pollen puff
-Anchor shot
-Psychic terrain
+Toxic Thread
+Laser Focus
+Gear Up
+Throat Chop
+Pollen Puff
+Anchor Shot
+Psychic Terrain
 Lunge
-Fire lash
-Power trip
-Burn up
-Speed swap
-Smart strike
+Fire Lash
+Power Trip
+Burn Up
+Speed Swap
+Smart Strike
 Purify
-Revelation dance
-Core enforcer
-Trop kick
+Revelation Dance
+Core Enforcer
+Trop Kick
 Instruct
-Beak blast
-Clanging scales
-Dragon hammer
-Brutal swing
-Aurora veil
-Shell trap
-Fleur cannon
-Psychic fangs
-Stomping tantrum
-Shadow bone
+Beak Blast
+Clanging Scales
+Dragon Hammer
+Brutal Swing
+Aurora Veil
+Shell Trap
+Fleur Cannon
+Psychic Fangs
+Stomping Tantrum
+Shadow Bone
 Accelerock
 Liquidation
-Prismatic laser
-Spectral thief
-Sunsteel strike
-Moongeist beam
-Tearful look
-Zing zap
-Natures madness
-Multi attack
-Mind blown
-Plasma fists
-Photon geyser
-Zippy zap
-Splishy splash
-Floaty fall
-Pika papow
-Bouncy bubble
-Buzzy buzz
-Sizzly slide
-Glitzy glow
-Baddy bad
-Sappy seed
-Freezy frost
-Sparkly swirl
-Veevee volley
-Double iron bash
-Breakneck blitz
-All out pummeling
-Supersonic skystrike
-Acid downpour
-Tectonic rage
-Continental crush
-Savage spin out
-Never ending nightmare
-Corkscrew crash
-Inferno overdrive
-Hydro vortex
-Bloom doom
-Gigavolt havoc
-Shattered psyche
-Subzero slammer
-Devastating drake
-Black hole eclipse
-Twinkle tackle
+Prismatic Laser
+Spectral Thief
+Sunsteel Strike
+Moongeist Beam
+Tearful Look
+Zing Zap
+Natures Madness
+Multi Attack
+Mind Blown
+Plasma Fists
+Photon Geyser
+Zippy Zap
+Splishy Splash
+Floaty Fall
+Pika Papow
+Bouncy Bubble
+Buzzy Buzz
+Sizzly Slide
+Glitzy Glow
+Baddy Bad
+Sappy Seed
+Freezy Frost
+Sparkly Swirl
+Veevee Volley
+Double Iron Bash
+Breakneck Blitz
+All Out Pummeling
+Supersonic Skystrike
+Acid Downpour
+Tectonic Rage
+Continental Crush
+Savage Spin Out
+Never Ending Nightmare
+Corkscrew Crash
+Inferno Overdrive
+Hydro Vortex
+Bloom Doom
+Gigavolt Havoc
+Shattered Psyche
+Subzero Slammer
+Devastating Drake
+Black Hole Eclipse
+Twinkle Tackle
 Catastropika
-Move 10000000 volt thunderbolt
-Stoked sparksurfer
-Extreme evoboost
-Pulverizing pancake
-Genesis supernova
-Sinister arrow raid
-Malicious moonsault
-Oceanic operetta
-Splintered stormshards
-Lets snuggle forever
-Clangorous soulblaze
-Guardian of alola
-Searing sunraze smash
-Menacing moonraze maelstrom
-Light that burns the sky
-Soul stealing  star strike
-Dynamax cannon
-Snipe shot
-Jaw lock
-Stuff cheeks
-No retreat
-Tar shot
-Magic powder
-Dragon darts
+Move 10000000 Volt Thunderbolt
+Stoked Sparksurfer
+Extreme Evoboost
+Pulverizing Pancake
+Genesis Supernova
+Sinister Arrow Raid
+Malicious Moonsault
+Oceanic Operetta
+Splintered Stormshards
+Lets Snuggle Forever
+Clangorous Soulblaze
+Guardian Of Alola
+Searing Sunraze Smash
+Menacing Moonraze Maelstrom
+Light That Burns The Sky
+Soul Stealing  Star Strike
+Dynamax Cannon
+Snipe Shot
+Jaw Lock
+Stuff Cheeks
+No Retreat
+Tar Shot
+Magic Powder
+Dragon Darts
 Teatime
 Octolock
-Bolt beak
-Fishious rend
-Court change
-Clangorous soul
-Body press
+Bolt Beak
+Fishious Rend
+Court Change
+Clangorous Soul
+Body Press
 Decorate
-Drum beating
-Snap trap
-Pyro ball
-Behemoth blade
-Behemoth bash
-Aura wheel
-Breaking swipe
-Branch poke
+Drum Beating
+Snap Trap
+Pyro Ball
+Behemoth Blade
+Behemoth Bash
+Aura Wheel
+Breaking Swipe
+Branch Poke
 Overdrive
-Apple acid
-Grav apple
-Spirit break
-Strange steam
-Life dew
+Apple Acid
+Grav Apple
+Spirit Break
+Strange Steam
+Life Dew
 Obstruct
-False surrender
-Meteor assault
+False Surrender
+Meteor Assault
 Eternabeam
-Steel beam
-Expanding force
-Steel roller
-Scale shot
-Meteor beam
-Shell side arm
-Misty explosion
-Grassy glide
-Rising voltage
-Terrain pulse
-Skitter smack
-Burning jealousy
-Lash out
+Steel Beam
+Expanding Force
+Steel Roller
+Scale Shot
+Meteor Beam
+Shell Side Arm
+Misty Explosion
+Grassy Glide
+Rising Voltage
+Terrain Pulse
+Skitter Smack
+Burning Jealousy
+Lash Out
 Poltergeist
-Corrosive gas
+Corrosive Gas
 Coaching
-Flip turn
-Triple axel
-Dual wingbeat
-Scorching sands
-Jungle healing
-Wicked blow
-Surging strikes
-Thunder cage
-Dragon energy
-Freezing glare
-Fiery wrath
-Thunderous kick
-Glacial lance
-Astral barrage
-Eerie spell
-Dire claw
-Psyshield bash
-Power shift
-Stone axe
-Springtide storm
-Mystical power
-Raging fury
-Wave crash
+Flip Turn
+Triple Axel
+Dual Wingbeat
+Scorching Sands
+Jungle Healing
+Wicked Blow
+Surging Strikes
+Thunder Cage
+Dragon Energy
+Freezing Glare
+Fiery Wrath
+Thunderous Kick
+Glacial Lance
+Astral Barrage
+Eerie Spell
+Dire Claw
+Psyshield Bash
+Power Shift
+Stone Axe
+Springtide Storm
+Mystical Power
+Raging Fury
+Wave Crash
 Chloroblast
-Mountain gale
-Victory dance
-Headlong rush
-Barb barrage
-Esper wing
-Bitter malice
+Mountain Gale
+Victory Dance
+Headlong Rush
+Barb Barrage
+Esper Wing
+Bitter Malice
 Shelter
-Triple arrows
-Infernal parade
-Ceaseless edge
-Bleakwind storm
-Wildbolt storm
-Sandsear storm
-Lunar blessing
-Take heart
-Max guard
-Max strike
-Max knuckle
-Max airstream
-Max ooze
-Max quake
-Max rockfall
-Max flutterby
-Max phantasm
-Max steelspike
-Max flare
-Max geyser
-Max overgrowth
-Max lightning
-Max mindstorm
-Max hailstorm
-Max wyrmwind
-Max darkness
-Max starfall
-G max vine lash
-G max wildfire
-G max cannonade
-G max befuddle
-G max volt crash
-G max gold rush
-G max chi strike
-G max terror
-G max foam burst
-G max resonance
-G max cuddle
-G max replenish
-G max malodor
-G max meltdown
-G max drum solo
-G max fireball
-G max hydrosnipe
-G max wind rage
-G max gravitas
-G max stonesurge
-G max volcalith
-G max tartness
-G max sweetness
-G max sandblast
-G max stun shock
-G max centiferno
-G max smite
-G max snooze
-G max finale
-G max steelsurge
-G max depletion
-G max one blow
-G max rapid flow
-Tera blast
-Silk trap
-Axe kick
-Last respects
-Lumina crash
-Order up
-Jet punch
-Spicy extract
-Spin out
-Population bomb
-Ice spinner
-Glaive rush
-Revival blessing
-Salt cure
-Triple dive
-Mortal spin
+Triple Arrows
+Infernal Parade
+Ceaseless Edge
+Bleakwind Storm
+Wildbolt Storm
+Sandsear Storm
+Lunar Blessing
+Take Heart
+Max Guard
+Max Strike
+Max Knuckle
+Max Airstream
+Max Ooze
+Max Quake
+Max Rockfall
+Max Flutterby
+Max Phantasm
+Max Steelspike
+Max Flare
+Max Geyser
+Max Overgrowth
+Max Lightning
+Max Mindstorm
+Max Hailstorm
+Max Wyrmwind
+Max Darkness
+Max Starfall
+G Max Vine Lash
+G Max Wildfire
+G Max Cannonade
+G Max Befuddle
+G Max Volt Crash
+G Max Gold Rush
+G Max Chi Strike
+G Max Terror
+G Max Foam Burst
+G Max Resonance
+G Max Cuddle
+G Max Replenish
+G Max Malodor
+G Max Meltdown
+G Max Drum Solo
+G Max Fireball
+G Max Hydrosnipe
+G Max Wind Rage
+G Max Gravitas
+G Max Stonesurge
+G Max Volcalith
+G Max Tartness
+G Max Sweetness
+G Max Sandblast
+G Max Stun Shock
+G Max Centiferno
+G Max Smite
+G Max Snooze
+G Max Finale
+G Max Steelsurge
+G Max Depletion
+G Max One Blow
+G Max Rapid Flow
+Tera Blast
+Silk Trap
+Axe Kick
+Last Respects
+Lumina Crash
+Order Up
+Jet Punch
+Spicy Extract
+Spin Out
+Population Bomb
+Ice Spinner
+Glaive Rush
+Revival Blessing
+Salt Cure
+Triple Dive
+Mortal Spin
 Doodle
-Fillet away
-Kowtow cleave
-Flower trick
-Torch song
-Aqua step
-Raging bull
-Make it rain
+Fillet Away
+Kowtow Cleave
+Flower Trick
+Torch Song
+Aqua Step
+Raging Bull
+Make It Rain
 Ruination
-Collision course
-Electro drift
-Shed tail
-Chilly reception
-Tidy up
+Collision Course
+Electro Drift
+Shed Tail
+Chilly Reception
+Tidy Up
 Snowscape
 Pounce
 Trailblaze
-Chilling water
-Hyper drill
-Twin beam
-Rage fist
-Armor cannon
-Bitter blade
-Double shock
-Gigaton hammer
+Chilling Water
+Hyper Drill
+Twin Beam
+Rage Fist
+Armor Cannon
+Bitter Blade
+Double Shock
+Gigaton Hammer
 Comeuppance
-Aqua cutter
-Blazing torque
-Wicked torque
-Noxious torque
-Combat torque
-Magical torque
+Aqua Cutter
+Blazing Torque
+Wicked Torque
+Noxious Torque
+Combat Torque
+Magical Torque
 Psyblade
-Hydro steam
-Blood moon
-Matcha gotcha
-Syrup bomb
-Ivy cudgel
-Electro shot
-Tera starstorm
-Fickle beam
-Burning bulwark
+Hydro Steam
+Blood Moon
+Matcha Gotcha
+Syrup Bomb
+Ivy Cudgel
+Electro Shot
+Tera Starstorm
+Fickle Beam
+Burning Bulwark
 Thunderclap
-Mighty cleave
-Tachyon cutter
-Hard press
-Dragon cheer
-Alluring voice
-Temper flare
-Supercell slam
-Psychic noise
-Upper hand
-Malignant chain
+Mighty Cleave
+Tachyon Cutter
+Hard Press
+Dragon Cheer
+Alluring Voice
+Temper Flare
+Supercell Slam
+Psychic Noise
+Upper Hand
+Malignant Chain
