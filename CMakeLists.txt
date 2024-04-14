@@ -13,16 +13,24 @@ find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
+        # Main Source FIle
         src/main.cpp
+        # Source Files used in Main Window
         src/ui/mainwindow.cpp
         src/ui/aboutpokedex.cpp
-        src/ui/bulbasaur.cpp
+        # Source Files for Pokemon Windows
+        src/ui/pokemon/bulbasaur.cpp
+        # Header Files for Main Window
         include/ui/mainwindow.h
         include/ui/aboutpokedex.h
+        # Head Files for Pokemon Windows
         include/ui/bulbasaur.h
+        # Form Files for Main Window
         forms/mainwindow.ui
         forms/aboutpokedex.ui
+        # Form Files for Pokemon Windows
         forms/bulbasaur.ui
+        # Resource FIles for Database
         resources/database/Database.qrc
 )
 

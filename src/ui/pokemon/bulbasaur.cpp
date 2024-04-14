@@ -1,5 +1,5 @@
-#include "../../include/ui/bulbasaur.h"
-#include "../../forms/ui_bulbasaur.h"
+#include "../../../include/ui/bulbasaur.h"
+#include "../../../forms/ui_bulbasaur.h"
 
 bulbasaur::bulbasaur(QWidget *parent)
     : QDialog(parent)
