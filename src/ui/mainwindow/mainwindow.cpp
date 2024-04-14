@@ -1,10 +1,10 @@
-#include "../../include/ui/mainwindow.h"
-#include "../../forms/ui_mainwindow.h"
+#include "../../../include/ui/mainwindow/mainwindow.h"
+#include "../../../forms/mainwindow/ui_mainwindow.h"
 #include <qmessagebox.h>
-#include "../../include/ui/aboutpokedex.h"
+#include "../../../include/ui/mainwindow/aboutpokedex.h"
 #include <qfile.h>
 #include <qtextstream.h>
-#include "../../include/ui/bulbasaur.h"
+#include "../../../include/ui/pokemon/bulbasaur.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
