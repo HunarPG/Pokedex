@@ -37,7 +37,7 @@ MainWindow::MainWindow(QWidget *parent)
     QTextStream abilityNames(&abilityDatabseFile);
     abilityDatabseFile.open(QFile::ReadOnly | QFile::Text);
     
-    for(int i = 0; i<314; i++){
+    for(int i = 0; i<310; i++){
         ui->combobox_Ability->addItem(abilityNames.readLine());
     }
     abilityDatabseFile.close();
