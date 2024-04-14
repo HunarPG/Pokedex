@@ -567,680 +567,680 @@ ulder\x0aIron Crown\
 runt\
 \x00\x00*\x19\
 P\
-OUND\x0aKARATE CHOP\
-\x0aDOUBLE SLAP\x0aCOM\
-ET PUNCH\x0aMEGA PU\
-NCH\x0aPAY DAY\x0aFIRE\
- PUNCH\x0aICE PUNCH\
-\x0aTHUNDER PUNCH\x0aS\
-CRATCH\x0aVISE GRIP\
-\x0aGUILLOTINE\x0aRAZO\
-R WIND\x0aSWORDS DA\
-NCE\x0aCUT\x0aGUST\x0aWIN\
-G ATTACK\x0aWHIRLWI\
-ND\x0aFLY\x0aBIND\x0aSLAM\
-\x0aVINE WHIP\x0aSTOMP\
-\x0aDOUBLE KICK\x0aMEG\
-A KICK\x0aJUMP KICK\
-\x0aROLLING KICK\x0aSA\
-ND ATTACK\x0aHEADBU\
-TT\x0aHORN ATTACK\x0aF\
-URY ATTACK\x0aHORN \
-DRILL\x0aTACKLE\x0aBOD\
-Y SLAM\x0aWRAP\x0aTAKE\
- DOWN\x0aTHRASH\x0aDOU\
-BLE EDGE\x0aTAIL WH\
-IP\x0aPOISON STING\x0a\
-TWINEEDLE\x0aPIN MI\
-SSILE\x0aLEER\x0aBITE\x0a\
-GROWL\x0aROAR\x0aSING\x0a\
-SUPERSONIC\x0aSONIC\
- BOOM\x0aDISABLE\x0aAC\
-ID\x0aEMBER\x0aFLAMETH\
-ROWER\x0aMIST\x0aWATER\
- GUN\x0aHYDRO PUMP\x0a\
-SURF\x0aICE BEAM\x0aBL\
-IZZARD\x0aPSYBEAM\x0aB\
-UBBLE BEAM\x0aAUROR\
-A BEAM\x0aHYPER BEA\
-M\x0aPECK\x0aDRILL PEC\
-K\x0aSUBMISSION\x0aLOW\
- KICK\x0aCOUNTER\x0aSE\
-ISMIC TOSS\x0aSTREN\
-GTH\x0aABSORB\x0aMEGA \
-DRAIN\x0aLEECH SEED\
-\x0aGROWTH\x0aRAZOR LE\
-AF\x0aSOLAR BEAM\x0aPO\
-ISON POWDER\x0aSTUN\
- SPORE\x0aSLEEP POW\
-DER\x0aPETAL DANCE\x0a\
-STRING SHOT\x0aDRAG\
-ON RAGE\x0aFIRE SPI\
-N\x0aTHUNDER SHOCK\x0a\
-THUNDERBOLT\x0aTHUN\
-DER WAVE\x0aTHUNDER\
-\x0aROCK THROW\x0aEART\
-HQUAKE\x0aFISSURE\x0aD\
-IG\x0aTOXIC\x0aCONFUSI\
-ON\x0aPSYCHIC\x0aHYPNO\
-SIS\x0aMEDITATE\x0aAGI\
-LITY\x0aQUICK ATTAC\
-K\x0aRAGE\x0aTELEPORT\x0a\
-NIGHT SHADE\x0aMIMI\
-C\x0aSCREECH\x0aDOUBLE\
- TEAM\x0aRECOVER\x0aHA\
-RDEN\x0aMINIMIZE\x0aSM\
-OKESCREEN\x0aCONFUS\
-E RAY\x0aWITHDRAW\x0aD\
-EFENSE CURL\x0aBARR\
-IER\x0aLIGHT SCREEN\
-\x0aHAZE\x0aREFLECT\x0aFO\
-CUS ENERGY\x0aBIDE\x0a\
-METRONOME\x0aMIRROR\
- MOVE\x0aSELF DESTR\
-UCT\x0aEGG BOMB\x0aLIC\
-K\x0aSMOG\x0aSLUDGE\x0aBO\
-NE CLUB\x0aFIRE BLA\
-ST\x0aWATERFALL\x0aCLA\
-MP\x0aSWIFT\x0aSKULL B\
-ASH\x0aSPIKE CANNON\
-\x0aCONSTRICT\x0aAMNES\
-IA\x0aKINESIS\x0aSOFT \
-BOILED\x0aHIGH JUMP\
- KICK\x0aGLARE\x0aDREA\
-M EATER\x0aPOISON G\
-AS\x0aBARRAGE\x0aLEECH\
- LIFE\x0aLOVELY KIS\
-S\x0aSKY ATTACK\x0aTRA\
-NSFORM\x0aBUBBLE\x0aDI\
-ZZY PUNCH\x0aSPORE\x0a\
-FLASH\x0aPSYWAVE\x0aSP\
-LASH\x0aACID ARMOR\x0a\
-CRABHAMMER\x0aEXPLO\
-SION\x0aFURY SWIPES\
-\x0aBONEMERANG\x0aREST\
-\x0aROCK SLIDE\x0aHYPE\
-R FANG\x0aSHARPEN\x0aC\
-ONVERSION\x0aTRI AT\
-TACK\x0aSUPER FANG\x0a\
-SLASH\x0aSUBSTITUTE\
-\x0aSTRUGGLE\x0aSKETCH\
-\x0aTRIPLE KICK\x0aTHI\
-EF\x0aSPIDER WEB\x0aMI\
-ND READER\x0aNIGHTM\
-ARE\x0aFLAME WHEEL\x0a\
-SNORE\x0aCURSE\x0aFLAI\
-L\x0aCONVERSION \x0aAE\
-ROBLAST\x0aCOTTON S\
-PORE\x0aREVERSAL\x0aSP\
-ITE\x0aPOWDER SNOW\x0a\
-PROTECT\x0aMACH PUN\
-CH\x0aSCARY FACE\x0aFE\
-INT ATTACK\x0aSWEET\
- KISS\x0aBELLY DRUM\
-\x0aSLUDGE BOMB\x0aMUD\
- SLAP\x0aOCTAZOOKA\x0a\
-SPIKES\x0aZAP CANNO\
-N\x0aFORESIGHT\x0aDEST\
-INY BOND\x0aPERISH \
-SONG\x0aICY WIND\x0aDE\
-TECT\x0aBONE RUSH\x0aL\
-OCK ON\x0aOUTRAGE\x0aS\
-ANDSTORM\x0aGIGA DR\
-AIN\x0aENDURE\x0aCHARM\
-\x0aROLLOUT\x0aFALSE S\
-WIPE\x0aSWAGGER\x0aMIL\
-K DRINK\x0aSPARK\x0aFU\
-RY CUTTER\x0aSTEEL \
-WING\x0aMEAN LOOK\x0aA\
-TTRACT\x0aSLEEP TAL\
-K\x0aHEAL BELL\x0aRETU\
-RN\x0aPRESENT\x0aFRUST\
-RATION\x0aSAFEGUARD\
-\x0aPAIN SPLIT\x0aSACR\
-ED FIRE\x0aMAGNITUD\
-E\x0aDYNAMIC PUNCH\x0a\
-MEGAHORN\x0aDRAGON \
-BREATH\x0aBATON PAS\
-S\x0aENCORE\x0aPURSUIT\
-\x0aRAPID SPIN\x0aSWEE\
-T SCENT\x0aIRON TAI\
-L\x0aMETAL CLAW\x0aVIT\
-AL THROW\x0aMORNING\
- SUN\x0aSYNTHESIS\x0aM\
-OONLIGHT\x0aHIDDEN \
-POWER\x0aCROSS CHOP\
-\x0aTWISTER\x0aRAIN DA\
-NCE\x0aSUNNY DAY\x0aCR\
-UNCH\x0aMIRROR COAT\
-\x0aPSYCH UP\x0aEXTREM\
-E SPEED\x0aANCIENT \
-POWER\x0aSHADOW BAL\
-L\x0aFUTURE SIGHT\x0aR\
-OCK SMASH\x0aWHIRLP\
-OOL\x0aBEAT UP\x0aFAKE\
- OUT\x0aUPROAR\x0aSTOC\
-KPILE\x0aSPIT UP\x0aSW\
-ALLOW\x0aHEAT WAVE\x0a\
-HAIL\x0aTORMENT\x0aFLA\
-TTER\x0aWILL O WISP\
-\x0aMEMENTO\x0aFACADE\x0a\
-FOCUS PUNCH\x0aSMEL\
-LING SALTS\x0aFOLLO\
-W ME\x0aNATURE POWE\
-R\x0aCHARGE\x0aTAUNT\x0aH\
-ELPING HAND\x0aTRIC\
-K\x0aROLE PLAY\x0aWISH\
-\x0aASSIST\x0aINGRAIN\x0a\
-SUPERPOWER\x0aMAGIC\
- COAT\x0aRECYCLE\x0aRE\
-VENGE\x0aBRICK BREA\
-K\x0aYAWN\x0aKNOCK OFF\
-\x0aENDEAVOR\x0aERUPTI\
-ON\x0aSKILL SWAP\x0aIM\
-PRISON\x0aREFRESH\x0aG\
-RUDGE\x0aSNATCH\x0aSEC\
-RET POWER\x0aDIVE\x0aA\
-RM THRUST\x0aCAMOUF\
-LAGE\x0aTAIL GLOW\x0aL\
-USTER PURGE\x0aMIST\
- BALL\x0aFEATHER DA\
-NCE\x0aTEETER DANCE\
-\x0aBLAZE KICK\x0aMUD \
-SPORT\x0aICE BALL\x0aN\
-EEDLE ARM\x0aSLACK \
-OFF\x0aHYPER VOICE\x0a\
-POISON FANG\x0aCRUS\
-H CLAW\x0aBLAST BUR\
-N\x0aHYDRO CANNON\x0aM\
-ETEOR MASH\x0aASTON\
-ISH\x0aWEATHER BALL\
-\x0aAROMATHERAPY\x0aFA\
-KE TEARS\x0aAIR CUT\
-TER\x0aOVERHEAT\x0aODO\
-R SLEUTH\x0aROCK TO\
-MB\x0aSILVER WIND\x0aM\
-ETAL SOUND\x0aGRASS\
- WHISTLE\x0aTICKLE\x0a\
-COSMIC POWER\x0aWAT\
-ER SPOUT\x0aSIGNAL \
-BEAM\x0aSHADOW PUNC\
-H\x0aEXTRASENSORY\x0aS\
-KY UPPERCUT\x0aSAND\
- TOMB\x0aSHEER COLD\
-\x0aMUDDY WATER\x0aBUL\
-LET SEED\x0aAERIAL \
-ACE\x0aICICLE SPEAR\
-\x0aIRON DEFENSE\x0aBL\
-OCK\x0aHOWL\x0aDRAGON \
-CLAW\x0aFRENZY PLAN\
-T\x0aBULK UP\x0aBOUNCE\
-\x0aMUD SHOT\x0aPOISON\
- TAIL\x0aCOVET\x0aVOLT\
- TACKLE\x0aMAGICAL \
-LEAF\x0aWATER SPORT\
-\x0aCALM MIND\x0aLEAF \
-BLADE\x0aDRAGON DAN\
-CE\x0aROCK BLAST\x0aSH\
-OCK WAVE\x0aWATER P\
-ULSE\x0aDOOM DESIRE\
-\x0aPSYCHO BOOST\x0aRO\
-OST\x0aGRAVITY\x0aMIRA\
-CLE EYE\x0aWAKE UP \
-SLAP\x0aHAMMER ARM\x0a\
-GYRO BALL\x0aHEALIN\
-G WISH\x0aBRINE\x0aNAT\
-URAL GIFT\x0aFEINT\x0a\
-PLUCK\x0aTAILWIND\x0aA\
-CUPRESSURE\x0aMETAL\
- BURST\x0aU TURN\x0aCL\
-OSE COMBAT\x0aPAYBA\
-CK\x0aASSURANCE\x0aEMB\
-ARGO\x0aFLING\x0aPSYCH\
-O SHIFT\x0aTRUMP CA\
-RD\x0aHEAL BLOCK\x0aWR\
-ING OUT\x0aPOWER TR\
-ICK\x0aGASTRO ACID\x0a\
-LUCKY CHANT\x0aME F\
-IRST\x0aCOPYCAT\x0aPOW\
-ER SWAP\x0aGUARD SW\
-AP\x0aPUNISHMENT\x0aLA\
-ST RESORT\x0aWORRY \
-SEED\x0aSUCKER PUNC\
-H\x0aTOXIC SPIKES\x0aH\
-EART SWAP\x0aAQUA R\
-ING\x0aMAGNET RISE\x0a\
-FLARE BLITZ\x0aFORC\
-E PALM\x0aAURA SPHE\
-RE\x0aROCK POLISH\x0aP\
-OISON JAB\x0aDARK P\
-ULSE\x0aNIGHT SLASH\
-\x0aAQUA TAIL\x0aSEED \
-BOMB\x0aAIR SLASH\x0aX\
- SCISSOR\x0aBUG BUZ\
-Z\x0aDRAGON PULSE\x0aD\
-RAGON RUSH\x0aPOWER\
- GEM\x0aDRAIN PUNCH\
-\x0aVACUUM WAVE\x0aFOC\
-US BLAST\x0aENERGY \
-BALL\x0aBRAVE BIRD\x0a\
-EARTH POWER\x0aSWIT\
-CHEROO\x0aGIGA IMPA\
-CT\x0aNASTY PLOT\x0aBU\
-LLET PUNCH\x0aAVALA\
-NCHE\x0aICE SHARD\x0aS\
-HADOW CLAW\x0aTHUND\
-ER FANG\x0aICE FANG\
-\x0aFIRE FANG\x0aSHADO\
-W SNEAK\x0aMUD BOMB\
-\x0aPSYCHO CUT\x0aZEN \
-HEADBUTT\x0aMIRROR \
-SHOT\x0aFLASH CANNO\
-N\x0aROCK CLIMB\x0aDEF\
-OG\x0aTRICK ROOM\x0aDR\
-ACO METEOR\x0aDISCH\
-ARGE\x0aLAVA PLUME\x0a\
-LEAF STORM\x0aPOWER\
- WHIP\x0aROCK WRECK\
-ER\x0aCROSS POISON\x0a\
-GUNK SHOT\x0aIRON H\
-EAD\x0aMAGNET BOMB\x0a\
-STONE EDGE\x0aCAPTI\
-VATE\x0aSTEALTH ROC\
-K\x0aGRASS KNOT\x0aCHA\
-TTER\x0aJUDGMENT\x0aBU\
-G BITE\x0aCHARGE BE\
-AM\x0aWOOD HAMMER\x0aA\
-QUA JET\x0aATTACK O\
-RDER\x0aDEFEND ORDE\
-R\x0aHEAL ORDER\x0aHEA\
-D SMASH\x0aDOUBLE H\
-IT\x0aROAR OF TIME\x0a\
-SPACIAL REND\x0aLUN\
-AR DANCE\x0aCRUSH G\
-RIP\x0aMAGMA STORM\x0a\
-DARK VOID\x0aSEED F\
-LARE\x0aOMINOUS WIN\
-D\x0aSHADOW FORCE\x0aH\
-ONE CLAWS\x0aWIDE G\
-UARD\x0aGUARD SPLIT\
-\x0aPOWER SPLIT\x0aWON\
-DER ROOM\x0aPSYSHOC\
-K\x0aVENOSHOCK\x0aAUTO\
-TOMIZE\x0aRAGE POWD\
-ER\x0aTELEKINESIS\x0aM\
-AGIC ROOM\x0aSMACK \
-DOWN\x0aSTORM THROW\
-\x0aFLAME BURST\x0aSLU\
-DGE WAVE\x0aQUIVER \
-DANCE\x0aHEAVY SLAM\
-\x0aSYNCHRONOISE\x0aEL\
-ECTRO BALL\x0aSOAK\x0a\
-FLAME CHARGE\x0aCOI\
-L\x0aLOW SWEEP\x0aACID\
- SPRAY\x0aFOUL PLAY\
-\x0aSIMPLE BEAM\x0aENT\
-RAINMENT\x0aAFTER Y\
-OU\x0aROUND\x0aECHOED \
-VOICE\x0aCHIP AWAY\x0a\
-CLEAR SMOG\x0aSTORE\
-D POWER\x0aQUICK GU\
-ARD\x0aALLY SWITCH\x0a\
-SCALD\x0aSHELL SMAS\
-H\x0aHEAL PULSE\x0aHEX\
-\x0aSKY DROP\x0aSHIFT \
-GEAR\x0aCIRCLE THRO\
-W\x0aINCINERATE\x0aQUA\
-SH\x0aACROBATICS\x0aRE\
-FLECT TYPE\x0aRETAL\
-IATE\x0aFINAL GAMBI\
-T\x0aBESTOW\x0aINFERNO\
-\x0aWATER PLEDGE\x0aFI\
-RE PLEDGE\x0aGRASS \
-PLEDGE\x0aVOLT SWIT\
-CH\x0aSTRUGGLE BUG\x0a\
-BULLDOZE\x0aFROST B\
-REATH\x0aDRAGON TAI\
-L\x0aWORK UP\x0aELECTR\
-OWEB\x0aWILD CHARGE\
-\x0aDRILL RUN\x0aDUAL \
-CHOP\x0aHEART STAMP\
-\x0aHORN LEECH\x0aSACR\
-ED SWORD\x0aRAZOR S\
-HELL\x0aHEAT CRASH\x0a\
-LEAF TORNADO\x0aSTE\
-AMROLLER\x0aCOTTON \
-GUARD\x0aNIGHT DAZE\
-\x0aPSYSTRIKE\x0aTAIL \
-SLAP\x0aHURRICANE\x0aH\
-EAD CHARGE\x0aGEAR \
-GRIND\x0aSEARING SH\
-OT\x0aTECHNO BLAST\x0a\
-RELIC SONG\x0aSECRE\
-T SWORD\x0aGLACIATE\
-\x0aBOLT STRIKE\x0aBLU\
-E FLARE\x0aFIERY DA\
-NCE\x0aFREEZE SHOCK\
-\x0aICE BURN\x0aSNARL\x0a\
-ICICLE CRASH\x0aV C\
-REATE\x0aFUSION FLA\
-RE\x0aFUSION BOLT\x0aF\
-LYING PRESS\x0aMAT \
-BLOCK\x0aBELCH\x0aROTO\
-TILLER\x0aSTICKY WE\
-B\x0aFELL STINGER\x0aP\
-HANTOM FORCE\x0aTRI\
-CK OR TREAT\x0aNOBL\
-E ROAR\x0aION DELUG\
-E\x0aPARABOLIC CHAR\
-GE\x0aFORESTS CURSE\
-\x0aPETAL BLIZZARD\x0a\
-FREEZE DRY\x0aDISAR\
-MING VOICE\x0aPARTI\
-NG SHOT\x0aTOPSY TU\
-RVY\x0aDRAINING KIS\
-S\x0aCRAFTY SHIELD\x0a\
-FLOWER SHIELD\x0aGR\
-ASSY TERRAIN\x0aMIS\
-TY TERRAIN\x0aELECT\
-RIFY\x0aPLAY ROUGH\x0a\
-FAIRY WIND\x0aMOONB\
-LAST\x0aBOOMBURST\x0aF\
-AIRY LOCK\x0aKINGS \
-SHIELD\x0aPLAY NICE\
-\x0aCONFIDE\x0aDIAMOND\
- STORM\x0aSTEAM ERU\
-PTION\x0aHYPERSPACE\
- HOLE\x0aWATER SHUR\
-IKEN\x0aMYSTICAL FI\
-RE\x0aSPIKY SHIELD\x0a\
-AROMATIC MIST\x0aEE\
-RIE IMPULSE\x0aVENO\
-M DRENCH\x0aPOWDER\x0a\
-GEOMANCY\x0aMAGNETI\
-C FLUX\x0aHAPPY HOU\
-R\x0aELECTRIC TERRA\
-IN\x0aDAZZLING GLEA\
-M\x0aCELEBRATE\x0aHOLD\
- HANDS\x0aBABY DOLL\
- EYES\x0aNUZZLE\x0aHOL\
-D BACK\x0aINFESTATI\
-ON\x0aPOWER UP PUNC\
-H\x0aOBLIVION WING\x0a\
-THOUSAND ARROWS\x0a\
-THOUSAND WAVES\x0aL\
-ANDS WRATH\x0aLIGHT\
- OF RUIN\x0aORIGIN \
-PULSE\x0aPRECIPICE \
-BLADES\x0aDRAGON AS\
-CENT\x0aHYPERSPACE \
-FURY\x0aSHORE UP\x0aFI\
-RST IMPRESSION\x0aB\
-ANEFUL BUNKER\x0aSP\
-IRIT SHACKLE\x0aDAR\
-KEST LARIAT\x0aSPAR\
-KLING ARIA\x0aICE H\
-AMMER\x0aFLORAL HEA\
-LING\x0aHIGH HORSEP\
-OWER\x0aSTRENGTH SA\
-P\x0aSOLAR BLADE\x0aLE\
-AFAGE\x0aSPOTLIGHT\x0a\
-TOXIC THREAD\x0aLAS\
-ER FOCUS\x0aGEAR UP\
-\x0aTHROAT CHOP\x0aPOL\
-LEN PUFF\x0aANCHOR \
-SHOT\x0aPSYCHIC TER\
-RAIN\x0aLUNGE\x0aFIRE \
-LASH\x0aPOWER TRIP\x0a\
-BURN UP\x0aSPEED SW\
-AP\x0aSMART STRIKE\x0a\
-PURIFY\x0aREVELATIO\
-N DANCE\x0aCORE ENF\
-ORCER\x0aTROP KICK\x0a\
-INSTRUCT\x0aBEAK BL\
-AST\x0aCLANGING SCA\
-LES\x0aDRAGON HAMME\
-R\x0aBRUTAL SWING\x0aA\
-URORA VEIL\x0aSHELL\
- TRAP\x0aFLEUR CANN\
-ON\x0aPSYCHIC FANGS\
-\x0aSTOMPING TANTRU\
-M\x0aSHADOW BONE\x0aAC\
-CELEROCK\x0aLIQUIDA\
-TION\x0aPRISMATIC L\
-ASER\x0aSPECTRAL TH\
-IEF\x0aSUNSTEEL STR\
-IKE\x0aMOONGEIST BE\
-AM\x0aTEARFUL LOOK\x0a\
-ZING ZAP\x0aNATURES\
- MADNESS\x0aMULTI A\
-TTACK\x0aMIND BLOWN\
-\x0aPLASMA FISTS\x0aPH\
-OTON GEYSER\x0aZIPP\
-Y ZAP\x0aSPLISHY SP\
-LASH\x0aFLOATY FALL\
-\x0aPIKA PAPOW\x0aBOUN\
-CY BUBBLE\x0aBUZZY \
-BUZZ\x0aSIZZLY SLID\
-E\x0aGLITZY GLOW\x0aBA\
-DDY BAD\x0aSAPPY SE\
-ED\x0aFREEZY FROST\x0a\
-SPARKLY SWIRL\x0aVE\
-EVEE VOLLEY\x0aDOUB\
-LE IRON BASH\x0aBRE\
-AKNECK BLITZ\x0aALL\
- OUT PUMMELING\x0aS\
-UPERSONIC SKYSTR\
-IKE\x0aACID DOWNPOU\
-R\x0aTECTONIC RAGE\x0a\
-CONTINENTAL CRUS\
-H\x0aSAVAGE SPIN OU\
-T\x0aNEVER ENDING N\
-IGHTMARE\x0aCORKSCR\
-EW CRASH\x0aINFERNO\
- OVERDRIVE\x0aHYDRO\
- VORTEX\x0aBLOOM DO\
-OM\x0aGIGAVOLT HAVO\
-C\x0aSHATTERED PSYC\
-HE\x0aSUBZERO SLAMM\
-ER\x0aDEVASTATING D\
-RAKE\x0aBLACK HOLE \
-ECLIPSE\x0aTWINKLE \
-TACKLE\x0aCATASTROP\
-IKA\x0aMOVE 1000000\
-0 VOLT THUNDERBO\
-LT\x0aSTOKED SPARKS\
-URFER\x0aEXTREME EV\
-OBOOST\x0aPULVERIZI\
-NG PANCAKE\x0aGENES\
-IS SUPERNOVA\x0aSIN\
-ISTER ARROW RAID\
-\x0aMALICIOUS MOONS\
-AULT\x0aOCEANIC OPE\
-RETTA\x0aSPLINTERED\
- STORMSHARDS\x0aLET\
-S SNUGGLE FOREVE\
-R\x0aCLANGOROUS SOU\
-LBLAZE\x0aGUARDIAN \
-OF ALOLA\x0aSEARING\
- SUNRAZE SMASH\x0aM\
-ENACING MOONRAZE\
- MAELSTROM\x0aLIGHT\
- THAT BURNS THE \
-SKY\x0aSOUL STEALIN\
-G  STAR STRIKE\x0aD\
-YNAMAX CANNON\x0aSN\
-IPE SHOT\x0aJAW LOC\
-K\x0aSTUFF CHEEKS\x0aN\
-O RETREAT\x0aTAR SH\
-OT\x0aMAGIC POWDER\x0a\
-DRAGON DARTS\x0aTEA\
-TIME\x0aOCTOLOCK\x0aBO\
-LT BEAK\x0aFISHIOUS\
- REND\x0aCOURT CHAN\
-GE\x0aCLANGOROUS SO\
-UL\x0aBODY PRESS\x0aDE\
-CORATE\x0aDRUM BEAT\
-ING\x0aSNAP TRAP\x0aPY\
-RO BALL\x0aBEHEMOTH\
- BLADE\x0aBEHEMOTH \
-BASH\x0aAURA WHEEL\x0a\
-BREAKING SWIPE\x0aB\
-RANCH POKE\x0aOVERD\
-RIVE\x0aAPPLE ACID\x0a\
-GRAV APPLE\x0aSPIRI\
-T BREAK\x0aSTRANGE \
-STEAM\x0aLIFE DEW\x0aO\
-BSTRUCT\x0aFALSE SU\
-RRENDER\x0aMETEOR A\
-SSAULT\x0aETERNABEA\
-M\x0aSTEEL BEAM\x0aEXP\
-ANDING FORCE\x0aSTE\
-EL ROLLER\x0aSCALE \
-SHOT\x0aMETEOR BEAM\
-\x0aSHELL SIDE ARM\x0a\
-MISTY EXPLOSION\x0a\
-GRASSY GLIDE\x0aRIS\
-ING VOLTAGE\x0aTERR\
-AIN PULSE\x0aSKITTE\
-R SMACK\x0aBURNING \
-JEALOUSY\x0aLASH OU\
-T\x0aPOLTERGEIST\x0aCO\
-RROSIVE GAS\x0aCOAC\
-HING\x0aFLIP TURN\x0aT\
-RIPLE AXEL\x0aDUAL \
-WINGBEAT\x0aSCORCHI\
-NG SANDS\x0aJUNGLE \
-HEALING\x0aWICKED B\
-LOW\x0aSURGING STRI\
-KES\x0aTHUNDER CAGE\
-\x0aDRAGON ENERGY\x0aF\
-REEZING GLARE\x0aFI\
-ERY WRATH\x0aTHUNDE\
-ROUS KICK\x0aGLACIA\
-L LANCE\x0aASTRAL B\
-ARRAGE\x0aEERIE SPE\
-LL\x0aDIRE CLAW\x0aPSY\
-SHIELD BASH\x0aPOWE\
-R SHIFT\x0aSTONE AX\
-E\x0aSPRINGTIDE STO\
-RM\x0aMYSTICAL POWE\
-R\x0aRAGING FURY\x0aWA\
-VE CRASH\x0aCHLOROB\
-LAST\x0aMOUNTAIN GA\
-LE\x0aVICTORY DANCE\
-\x0aHEADLONG RUSH\x0aB\
-ARB BARRAGE\x0aESPE\
-R WING\x0aBITTER MA\
-LICE\x0aSHELTER\x0aTRI\
-PLE ARROWS\x0aINFER\
-NAL PARADE\x0aCEASE\
-LESS EDGE\x0aBLEAKW\
-IND STORM\x0aWILDBO\
-LT STORM\x0aSANDSEA\
-R STORM\x0aLUNAR BL\
-ESSING\x0aTAKE HEAR\
-T\x0aMAX GUARD\x0aMAX \
-STRIKE\x0aMAX KNUCK\
-LE\x0aMAX AIRSTREAM\
-\x0aMAX OOZE\x0aMAX QU\
-AKE\x0aMAX ROCKFALL\
-\x0aMAX FLUTTERBY\x0aM\
-AX PHANTASM\x0aMAX \
-STEELSPIKE\x0aMAX F\
-LARE\x0aMAX GEYSER\x0a\
-MAX OVERGROWTH\x0aM\
-AX LIGHTNING\x0aMAX\
- MINDSTORM\x0aMAX H\
-AILSTORM\x0aMAX WYR\
-MWIND\x0aMAX DARKNE\
-SS\x0aMAX STARFALL\x0a\
-G MAX VINE LASH\x0a\
-G MAX WILDFIRE\x0aG\
- MAX CANNONADE\x0aG\
- MAX BEFUDDLE\x0aG \
-MAX VOLT CRASH\x0aG\
- MAX GOLD RUSH\x0aG\
- MAX CHI STRIKE\x0a\
-G MAX TERROR\x0aG M\
-AX FOAM BURST\x0aG \
-MAX RESONANCE\x0aG \
-MAX CUDDLE\x0aG MAX\
- REPLENISH\x0aG MAX\
- MALODOR\x0aG MAX M\
-ELTDOWN\x0aG MAX DR\
-UM SOLO\x0aG MAX FI\
-REBALL\x0aG MAX HYD\
-ROSNIPE\x0aG MAX WI\
-ND RAGE\x0aG MAX GR\
-AVITAS\x0aG MAX STO\
-NESURGE\x0aG MAX VO\
-LCALITH\x0aG MAX TA\
-RTNESS\x0aG MAX SWE\
-ETNESS\x0aG MAX SAN\
-DBLAST\x0aG MAX STU\
-N SHOCK\x0aG MAX CE\
-NTIFERNO\x0aG MAX S\
-MITE\x0aG MAX SNOOZ\
-E\x0aG MAX FINALE\x0aG\
- MAX STEELSURGE\x0a\
-G MAX DEPLETION\x0a\
-G MAX ONE BLOW\x0aG\
- MAX RAPID FLOW\x0a\
-TERA BLAST\x0aSILK \
-TRAP\x0aAXE KICK\x0aLA\
-ST RESPECTS\x0aLUMI\
-NA CRASH\x0aORDER U\
-P\x0aJET PUNCH\x0aSPIC\
-Y EXTRACT\x0aSPIN O\
-UT\x0aPOPULATION BO\
-MB\x0aICE SPINNER\x0aG\
-LAIVE RUSH\x0aREVIV\
-AL BLESSING\x0aSALT\
- CURE\x0aTRIPLE DIV\
-E\x0aMORTAL SPIN\x0aDO\
-ODLE\x0aFILLET AWAY\
-\x0aKOWTOW CLEAVE\x0aF\
-LOWER TRICK\x0aTORC\
-H SONG\x0aAQUA STEP\
-\x0aRAGING BULL\x0aMAK\
-E IT RAIN\x0aRUINAT\
-ION\x0aCOLLISION CO\
-URSE\x0aELECTRO DRI\
-FT\x0aSHED TAIL\x0aCHI\
-LLY RECEPTION\x0aTI\
-DY UP\x0aSNOWSCAPE\x0a\
-POUNCE\x0aTRAILBLAZ\
-E\x0aCHILLING WATER\
-\x0aHYPER DRILL\x0aTWI\
-N BEAM\x0aRAGE FIST\
-\x0aARMOR CANNON\x0aBI\
-TTER BLADE\x0aDOUBL\
-E SHOCK\x0aGIGATON \
-HAMMER\x0aCOMEUPPAN\
-CE\x0aAQUA CUTTER\x0aB\
-LAZING TORQUE\x0aWI\
-CKED TORQUE\x0aNOXI\
-OUS TORQUE\x0aCOMBA\
-T TORQUE\x0aMAGICAL\
- TORQUE\x0aPSYBLADE\
-\x0aHYDRO STEAM\x0aBLO\
-OD MOON\x0aMATCHA G\
-OTCHA\x0aSYRUP BOMB\
-\x0aIVY CUDGEL\x0aELEC\
-TRO SHOT\x0aTERA ST\
-ARSTORM\x0aFICKLE B\
-EAM\x0aBURNING BULW\
-ARK\x0aTHUNDERCLAP\x0a\
-MIGHTY CLEAVE\x0aTA\
-CHYON CUTTER\x0aHAR\
-D PRESS\x0aDRAGON C\
-HEER\x0aALLURING VO\
-ICE\x0aTEMPER FLARE\
-\x0aSUPERCELL SLAM\x0a\
-PSYCHIC NOISE\x0aUP\
-PER HAND\x0aMALIGNA\
-NT CHAIN\
+ound\x0aKarate chop\
+\x0aDouble slap\x0aCom\
+et punch\x0aMega pu\
+nch\x0aPay day\x0aFire\
+ punch\x0aIce punch\
+\x0aThunder punch\x0aS\
+cratch\x0aVise grip\
+\x0aGuillotine\x0aRazo\
+r wind\x0aSwords da\
+nce\x0aCut\x0aGust\x0aWin\
+g attack\x0aWhirlwi\
+nd\x0aFly\x0aBind\x0aSlam\
+\x0aVine whip\x0aStomp\
+\x0aDouble kick\x0aMeg\
+a kick\x0aJump kick\
+\x0aRolling kick\x0aSa\
+nd attack\x0aHeadbu\
+tt\x0aHorn attack\x0aF\
+ury attack\x0aHorn \
+drill\x0aTackle\x0aBod\
+y slam\x0aWrap\x0aTake\
+ down\x0aThrash\x0aDou\
+ble edge\x0aTail wh\
+ip\x0aPoison sting\x0a\
+Twineedle\x0aPin mi\
+ssile\x0aLeer\x0aBite\x0a\
+Growl\x0aRoar\x0aSing\x0a\
+Supersonic\x0aSonic\
+ boom\x0aDisable\x0aAc\
+id\x0aEmber\x0aFlameth\
+rower\x0aMist\x0aWater\
+ gun\x0aHydro pump\x0a\
+Surf\x0aIce beam\x0aBl\
+izzard\x0aPsybeam\x0aB\
+ubble beam\x0aAuror\
+a beam\x0aHyper bea\
+m\x0aPeck\x0aDrill pec\
+k\x0aSubmission\x0aLow\
+ kick\x0aCounter\x0aSe\
+ismic toss\x0aStren\
+gth\x0aAbsorb\x0aMega \
+drain\x0aLeech seed\
+\x0aGrowth\x0aRazor le\
+af\x0aSolar beam\x0aPo\
+ison powder\x0aStun\
+ spore\x0aSleep pow\
+der\x0aPetal dance\x0a\
+String shot\x0aDrag\
+on rage\x0aFire spi\
+n\x0aThunder shock\x0a\
+Thunderbolt\x0aThun\
+der wave\x0aThunder\
+\x0aRock throw\x0aEart\
+hquake\x0aFissure\x0aD\
+ig\x0aToxic\x0aConfusi\
+on\x0aPsychic\x0aHypno\
+sis\x0aMeditate\x0aAgi\
+lity\x0aQuick attac\
+k\x0aRage\x0aTeleport\x0a\
+Night shade\x0aMimi\
+c\x0aScreech\x0aDouble\
+ team\x0aRecover\x0aHa\
+rden\x0aMinimize\x0aSm\
+okescreen\x0aConfus\
+e ray\x0aWithdraw\x0aD\
+efense curl\x0aBarr\
+ier\x0aLight screen\
+\x0aHaze\x0aReflect\x0aFo\
+cus energy\x0aBide\x0a\
+Metronome\x0aMirror\
+ move\x0aSelf destr\
+uct\x0aEgg bomb\x0aLic\
+k\x0aSmog\x0aSludge\x0aBo\
+ne club\x0aFire bla\
+st\x0aWaterfall\x0aCla\
+mp\x0aSwift\x0aSkull b\
+ash\x0aSpike cannon\
+\x0aConstrict\x0aAmnes\
+ia\x0aKinesis\x0aSoft \
+boiled\x0aHigh jump\
+ kick\x0aGlare\x0aDrea\
+m eater\x0aPoison g\
+as\x0aBarrage\x0aLeech\
+ life\x0aLovely kis\
+s\x0aSky attack\x0aTra\
+nsform\x0aBubble\x0aDi\
+zzy punch\x0aSpore\x0a\
+Flash\x0aPsywave\x0aSp\
+lash\x0aAcid armor\x0a\
+Crabhammer\x0aExplo\
+sion\x0aFury swipes\
+\x0aBonemerang\x0aRest\
+\x0aRock slide\x0aHype\
+r fang\x0aSharpen\x0aC\
+onversion\x0aTri at\
+tack\x0aSuper fang\x0a\
+Slash\x0aSubstitute\
+\x0aStruggle\x0aSketch\
+\x0aTriple kick\x0aThi\
+ef\x0aSpider web\x0aMi\
+nd reader\x0aNightm\
+are\x0aFlame wheel\x0a\
+Snore\x0aCurse\x0aFlai\
+l\x0aConversion \x0aAe\
+roblast\x0aCotton s\
+pore\x0aReversal\x0aSp\
+ite\x0aPowder snow\x0a\
+Protect\x0aMach pun\
+ch\x0aScary face\x0aFe\
+int attack\x0aSweet\
+ kiss\x0aBelly drum\
+\x0aSludge bomb\x0aMud\
+ slap\x0aOctazooka\x0a\
+Spikes\x0aZap canno\
+n\x0aForesight\x0aDest\
+iny bond\x0aPerish \
+song\x0aIcy wind\x0aDe\
+tect\x0aBone rush\x0aL\
+ock on\x0aOutrage\x0aS\
+andstorm\x0aGiga dr\
+ain\x0aEndure\x0aCharm\
+\x0aRollout\x0aFalse s\
+wipe\x0aSwagger\x0aMil\
+k drink\x0aSpark\x0aFu\
+ry cutter\x0aSteel \
+wing\x0aMean look\x0aA\
+ttract\x0aSleep tal\
+k\x0aHeal bell\x0aRetu\
+rn\x0aPresent\x0aFrust\
+ration\x0aSafeguard\
+\x0aPain split\x0aSacr\
+ed fire\x0aMagnitud\
+e\x0aDynamic punch\x0a\
+Megahorn\x0aDragon \
+breath\x0aBaton pas\
+s\x0aEncore\x0aPursuit\
+\x0aRapid spin\x0aSwee\
+t scent\x0aIron tai\
+l\x0aMetal claw\x0aVit\
+al throw\x0aMorning\
+ sun\x0aSynthesis\x0aM\
+oonlight\x0aHidden \
+power\x0aCross chop\
+\x0aTwister\x0aRain da\
+nce\x0aSunny day\x0aCr\
+unch\x0aMirror coat\
+\x0aPsych up\x0aExtrem\
+e speed\x0aAncient \
+power\x0aShadow bal\
+l\x0aFuture sight\x0aR\
+ock smash\x0aWhirlp\
+ool\x0aBeat up\x0aFake\
+ out\x0aUproar\x0aStoc\
+kpile\x0aSpit up\x0aSw\
+allow\x0aHeat wave\x0a\
+Hail\x0aTorment\x0aFla\
+tter\x0aWill o wisp\
+\x0aMemento\x0aFacade\x0a\
+Focus punch\x0aSmel\
+ling salts\x0aFollo\
+w me\x0aNature powe\
+r\x0aCharge\x0aTaunt\x0aH\
+elping hand\x0aTric\
+k\x0aRole play\x0aWish\
+\x0aAssist\x0aIngrain\x0a\
+Superpower\x0aMagic\
+ coat\x0aRecycle\x0aRe\
+venge\x0aBrick brea\
+k\x0aYawn\x0aKnock off\
+\x0aEndeavor\x0aErupti\
+on\x0aSkill swap\x0aIm\
+prison\x0aRefresh\x0aG\
+rudge\x0aSnatch\x0aSec\
+ret power\x0aDive\x0aA\
+rm thrust\x0aCamouf\
+lage\x0aTail glow\x0aL\
+uster purge\x0aMist\
+ ball\x0aFeather da\
+nce\x0aTeeter dance\
+\x0aBlaze kick\x0aMud \
+sport\x0aIce ball\x0aN\
+eedle arm\x0aSlack \
+off\x0aHyper voice\x0a\
+Poison fang\x0aCrus\
+h claw\x0aBlast bur\
+n\x0aHydro cannon\x0aM\
+eteor mash\x0aAston\
+ish\x0aWeather ball\
+\x0aAromatherapy\x0aFa\
+ke tears\x0aAir cut\
+ter\x0aOverheat\x0aOdo\
+r sleuth\x0aRock to\
+mb\x0aSilver wind\x0aM\
+etal sound\x0aGrass\
+ whistle\x0aTickle\x0a\
+Cosmic power\x0aWat\
+er spout\x0aSignal \
+beam\x0aShadow punc\
+h\x0aExtrasensory\x0aS\
+ky uppercut\x0aSand\
+ tomb\x0aSheer cold\
+\x0aMuddy water\x0aBul\
+let seed\x0aAerial \
+ace\x0aIcicle spear\
+\x0aIron defense\x0aBl\
+ock\x0aHowl\x0aDragon \
+claw\x0aFrenzy plan\
+t\x0aBulk up\x0aBounce\
+\x0aMud shot\x0aPoison\
+ tail\x0aCovet\x0aVolt\
+ tackle\x0aMagical \
+leaf\x0aWater sport\
+\x0aCalm mind\x0aLeaf \
+blade\x0aDragon dan\
+ce\x0aRock blast\x0aSh\
+ock wave\x0aWater p\
+ulse\x0aDoom desire\
+\x0aPsycho boost\x0aRo\
+ost\x0aGravity\x0aMira\
+cle eye\x0aWake up \
+slap\x0aHammer arm\x0a\
+Gyro ball\x0aHealin\
+g wish\x0aBrine\x0aNat\
+ural gift\x0aFeint\x0a\
+Pluck\x0aTailwind\x0aA\
+cupressure\x0aMetal\
+ burst\x0aU turn\x0aCl\
+ose combat\x0aPayba\
+ck\x0aAssurance\x0aEmb\
+argo\x0aFling\x0aPsych\
+o shift\x0aTrump ca\
+rd\x0aHeal block\x0aWr\
+ing out\x0aPower tr\
+ick\x0aGastro acid\x0a\
+Lucky chant\x0aMe f\
+irst\x0aCopycat\x0aPow\
+er swap\x0aGuard sw\
+ap\x0aPunishment\x0aLa\
+st resort\x0aWorry \
+seed\x0aSucker punc\
+h\x0aToxic spikes\x0aH\
+eart swap\x0aAqua r\
+ing\x0aMagnet rise\x0a\
+Flare blitz\x0aForc\
+e palm\x0aAura sphe\
+re\x0aRock polish\x0aP\
+oison jab\x0aDark p\
+ulse\x0aNight slash\
+\x0aAqua tail\x0aSeed \
+bomb\x0aAir slash\x0aX\
+ scissor\x0aBug buz\
+z\x0aDragon pulse\x0aD\
+ragon rush\x0aPower\
+ gem\x0aDrain punch\
+\x0aVacuum wave\x0aFoc\
+us blast\x0aEnergy \
+ball\x0aBrave bird\x0a\
+Earth power\x0aSwit\
+cheroo\x0aGiga impa\
+ct\x0aNasty plot\x0aBu\
+llet punch\x0aAvala\
+nche\x0aIce shard\x0aS\
+hadow claw\x0aThund\
+er fang\x0aIce fang\
+\x0aFire fang\x0aShado\
+w sneak\x0aMud bomb\
+\x0aPsycho cut\x0aZen \
+headbutt\x0aMirror \
+shot\x0aFlash canno\
+n\x0aRock climb\x0aDef\
+og\x0aTrick room\x0aDr\
+aco meteor\x0aDisch\
+arge\x0aLava plume\x0a\
+Leaf storm\x0aPower\
+ whip\x0aRock wreck\
+er\x0aCross poison\x0a\
+Gunk shot\x0aIron h\
+ead\x0aMagnet bomb\x0a\
+Stone edge\x0aCapti\
+vate\x0aStealth roc\
+k\x0aGrass knot\x0aCha\
+tter\x0aJudgment\x0aBu\
+g bite\x0aCharge be\
+am\x0aWood hammer\x0aA\
+qua jet\x0aAttack o\
+rder\x0aDefend orde\
+r\x0aHeal order\x0aHea\
+d smash\x0aDouble h\
+it\x0aRoar of time\x0a\
+Spacial rend\x0aLun\
+ar dance\x0aCrush g\
+rip\x0aMagma storm\x0a\
+Dark void\x0aSeed f\
+lare\x0aOminous win\
+d\x0aShadow force\x0aH\
+one claws\x0aWide g\
+uard\x0aGuard split\
+\x0aPower split\x0aWon\
+der room\x0aPsyshoc\
+k\x0aVenoshock\x0aAuto\
+tomize\x0aRage powd\
+er\x0aTelekinesis\x0aM\
+agic room\x0aSmack \
+down\x0aStorm throw\
+\x0aFlame burst\x0aSlu\
+dge wave\x0aQuiver \
+dance\x0aHeavy slam\
+\x0aSynchronoise\x0aEl\
+ectro ball\x0aSoak\x0a\
+Flame charge\x0aCoi\
+l\x0aLow sweep\x0aAcid\
+ spray\x0aFoul play\
+\x0aSimple beam\x0aEnt\
+rainment\x0aAfter y\
+ou\x0aRound\x0aEchoed \
+voice\x0aChip away\x0a\
+Clear smog\x0aStore\
+d power\x0aQuick gu\
+ard\x0aAlly switch\x0a\
+Scald\x0aShell smas\
+h\x0aHeal pulse\x0aHex\
+\x0aSky drop\x0aShift \
+gear\x0aCircle thro\
+w\x0aIncinerate\x0aQua\
+sh\x0aAcrobatics\x0aRe\
+flect type\x0aRetal\
+iate\x0aFinal gambi\
+t\x0aBestow\x0aInferno\
+\x0aWater pledge\x0aFi\
+re pledge\x0aGrass \
+pledge\x0aVolt swit\
+ch\x0aStruggle bug\x0a\
+Bulldoze\x0aFrost b\
+reath\x0aDragon tai\
+l\x0aWork up\x0aElectr\
+oweb\x0aWild charge\
+\x0aDrill run\x0aDual \
+chop\x0aHeart stamp\
+\x0aHorn leech\x0aSacr\
+ed sword\x0aRazor s\
+hell\x0aHeat crash\x0a\
+Leaf tornado\x0aSte\
+amroller\x0aCotton \
+guard\x0aNight daze\
+\x0aPsystrike\x0aTail \
+slap\x0aHurricane\x0aH\
+ead charge\x0aGear \
+grind\x0aSearing sh\
+ot\x0aTechno blast\x0a\
+Relic song\x0aSecre\
+t sword\x0aGlaciate\
+\x0aBolt strike\x0aBlu\
+e flare\x0aFiery da\
+nce\x0aFreeze shock\
+\x0aIce burn\x0aSnarl\x0a\
+Icicle crash\x0aV c\
+reate\x0aFusion fla\
+re\x0aFusion bolt\x0aF\
+lying press\x0aMat \
+block\x0aBelch\x0aRoto\
+tiller\x0aSticky we\
+b\x0aFell stinger\x0aP\
+hantom force\x0aTri\
+ck or treat\x0aNobl\
+e roar\x0aIon delug\
+e\x0aParabolic char\
+ge\x0aForests curse\
+\x0aPetal blizzard\x0a\
+Freeze dry\x0aDisar\
+ming voice\x0aParti\
+ng shot\x0aTopsy tu\
+rvy\x0aDraining kis\
+s\x0aCrafty shield\x0a\
+Flower shield\x0aGr\
+assy terrain\x0aMis\
+ty terrain\x0aElect\
+rify\x0aPlay rough\x0a\
+Fairy wind\x0aMoonb\
+last\x0aBoomburst\x0aF\
+airy lock\x0aKings \
+shield\x0aPlay nice\
+\x0aConfide\x0aDiamond\
+ storm\x0aSteam eru\
+ption\x0aHyperspace\
+ hole\x0aWater shur\
+iken\x0aMystical fi\
+re\x0aSpiky shield\x0a\
+Aromatic mist\x0aEe\
+rie impulse\x0aVeno\
+m drench\x0aPowder\x0a\
+Geomancy\x0aMagneti\
+c flux\x0aHappy hou\
+r\x0aElectric terra\
+in\x0aDazzling glea\
+m\x0aCelebrate\x0aHold\
+ hands\x0aBaby doll\
+ eyes\x0aNuzzle\x0aHol\
+d back\x0aInfestati\
+on\x0aPower up punc\
+h\x0aOblivion wing\x0a\
+Thousand arrows\x0a\
+Thousand waves\x0aL\
+ands wrath\x0aLight\
+ of ruin\x0aOrigin \
+pulse\x0aPrecipice \
+blades\x0aDragon as\
+cent\x0aHyperspace \
+fury\x0aShore up\x0aFi\
+rst impression\x0aB\
+aneful bunker\x0aSp\
+irit shackle\x0aDar\
+kest lariat\x0aSpar\
+kling aria\x0aIce h\
+ammer\x0aFloral hea\
+ling\x0aHigh horsep\
+ower\x0aStrength sa\
+p\x0aSolar blade\x0aLe\
+afage\x0aSpotlight\x0a\
+Toxic thread\x0aLas\
+er focus\x0aGear up\
+\x0aThroat chop\x0aPol\
+len puff\x0aAnchor \
+shot\x0aPsychic ter\
+rain\x0aLunge\x0aFire \
+lash\x0aPower trip\x0a\
+Burn up\x0aSpeed sw\
+ap\x0aSmart strike\x0a\
+Purify\x0aRevelatio\
+n dance\x0aCore enf\
+orcer\x0aTrop kick\x0a\
+Instruct\x0aBeak bl\
+ast\x0aClanging sca\
+les\x0aDragon hamme\
+r\x0aBrutal swing\x0aA\
+urora veil\x0aShell\
+ trap\x0aFleur cann\
+on\x0aPsychic fangs\
+\x0aStomping tantru\
+m\x0aShadow bone\x0aAc\
+celerock\x0aLiquida\
+tion\x0aPrismatic l\
+aser\x0aSpectral th\
+ief\x0aSunsteel str\
+ike\x0aMoongeist be\
+am\x0aTearful look\x0a\
+Zing zap\x0aNatures\
+ madness\x0aMulti a\
+ttack\x0aMind blown\
+\x0aPlasma fists\x0aPh\
+oton geyser\x0aZipp\
+y zap\x0aSplishy sp\
+lash\x0aFloaty fall\
+\x0aPika papow\x0aBoun\
+cy bubble\x0aBuzzy \
+buzz\x0aSizzly slid\
+e\x0aGlitzy glow\x0aBa\
+ddy bad\x0aSappy se\
+ed\x0aFreezy frost\x0a\
+Sparkly swirl\x0aVe\
+evee volley\x0aDoub\
+le iron bash\x0aBre\
+akneck blitz\x0aAll\
+ out pummeling\x0aS\
+upersonic skystr\
+ike\x0aAcid downpou\
+r\x0aTectonic rage\x0a\
+Continental crus\
+h\x0aSavage spin ou\
+t\x0aNever ending n\
+ightmare\x0aCorkscr\
+ew crash\x0aInferno\
+ overdrive\x0aHydro\
+ vortex\x0aBloom do\
+om\x0aGigavolt havo\
+c\x0aShattered psyc\
+he\x0aSubzero slamm\
+er\x0aDevastating d\
+rake\x0aBlack hole \
+eclipse\x0aTwinkle \
+tackle\x0aCatastrop\
+ika\x0aMove 1000000\
+0 volt thunderbo\
+lt\x0aStoked sparks\
+urfer\x0aExtreme ev\
+oboost\x0aPulverizi\
+ng pancake\x0aGenes\
+is supernova\x0aSin\
+ister arrow raid\
+\x0aMalicious moons\
+ault\x0aOceanic ope\
+retta\x0aSplintered\
+ stormshards\x0aLet\
+s snuggle foreve\
+r\x0aClangorous sou\
+lblaze\x0aGuardian \
+of alola\x0aSearing\
+ sunraze smash\x0aM\
+enacing moonraze\
+ maelstrom\x0aLight\
+ that burns the \
+sky\x0aSoul stealin\
+g  star strike\x0aD\
+ynamax cannon\x0aSn\
+ipe shot\x0aJaw loc\
+k\x0aStuff cheeks\x0aN\
+o retreat\x0aTar sh\
+ot\x0aMagic powder\x0a\
+Dragon darts\x0aTea\
+time\x0aOctolock\x0aBo\
+lt beak\x0aFishious\
+ rend\x0aCourt chan\
+ge\x0aClangorous so\
+ul\x0aBody press\x0aDe\
+corate\x0aDrum beat\
+ing\x0aSnap trap\x0aPy\
+ro ball\x0aBehemoth\
+ blade\x0aBehemoth \
+bash\x0aAura wheel\x0a\
+Breaking swipe\x0aB\
+ranch poke\x0aOverd\
+rive\x0aApple acid\x0a\
+Grav apple\x0aSpiri\
+t break\x0aStrange \
+steam\x0aLife dew\x0aO\
+bstruct\x0aFalse su\
+rrender\x0aMeteor a\
+ssault\x0aEternabea\
+m\x0aSteel beam\x0aExp\
+anding force\x0aSte\
+el roller\x0aScale \
+shot\x0aMeteor beam\
+\x0aShell side arm\x0a\
+Misty explosion\x0a\
+Grassy glide\x0aRis\
+ing voltage\x0aTerr\
+ain pulse\x0aSkitte\
+r smack\x0aBurning \
+jealousy\x0aLash ou\
+t\x0aPoltergeist\x0aCo\
+rrosive gas\x0aCoac\
+hing\x0aFlip turn\x0aT\
+riple axel\x0aDual \
+wingbeat\x0aScorchi\
+ng sands\x0aJungle \
+healing\x0aWicked b\
+low\x0aSurging stri\
+kes\x0aThunder cage\
+\x0aDragon energy\x0aF\
+reezing glare\x0aFi\
+ery wrath\x0aThunde\
+rous kick\x0aGlacia\
+l lance\x0aAstral b\
+arrage\x0aEerie spe\
+ll\x0aDire claw\x0aPsy\
+shield bash\x0aPowe\
+r shift\x0aStone ax\
+e\x0aSpringtide sto\
+rm\x0aMystical powe\
+r\x0aRaging fury\x0aWa\
+ve crash\x0aChlorob\
+last\x0aMountain ga\
+le\x0aVictory dance\
+\x0aHeadlong rush\x0aB\
+arb barrage\x0aEspe\
+r wing\x0aBitter ma\
+lice\x0aShelter\x0aTri\
+ple arrows\x0aInfer\
+nal parade\x0aCease\
+less edge\x0aBleakw\
+ind storm\x0aWildbo\
+lt storm\x0aSandsea\
+r storm\x0aLunar bl\
+essing\x0aTake hear\
+t\x0aMax guard\x0aMax \
+strike\x0aMax knuck\
+le\x0aMax airstream\
+\x0aMax ooze\x0aMax qu\
+ake\x0aMax rockfall\
+\x0aMax flutterby\x0aM\
+ax phantasm\x0aMax \
+steelspike\x0aMax f\
+lare\x0aMax geyser\x0a\
+Max overgrowth\x0aM\
+ax lightning\x0aMax\
+ mindstorm\x0aMax h\
+ailstorm\x0aMax wyr\
+mwind\x0aMax darkne\
+ss\x0aMax starfall\x0a\
+G max vine lash\x0a\
+G max wildfire\x0aG\
+ max cannonade\x0aG\
+ max befuddle\x0aG \
+max volt crash\x0aG\
+ max gold rush\x0aG\
+ max chi strike\x0a\
+G max terror\x0aG m\
+ax foam burst\x0aG \
+max resonance\x0aG \
+max cuddle\x0aG max\
+ replenish\x0aG max\
+ malodor\x0aG max m\
+eltdown\x0aG max dr\
+um solo\x0aG max fi\
+reball\x0aG max hyd\
+rosnipe\x0aG max wi\
+nd rage\x0aG max gr\
+avitas\x0aG max sto\
+nesurge\x0aG max vo\
+lcalith\x0aG max ta\
+rtness\x0aG max swe\
+etness\x0aG max san\
+dblast\x0aG max stu\
+n shock\x0aG max ce\
+ntiferno\x0aG max s\
+mite\x0aG max snooz\
+e\x0aG max finale\x0aG\
+ max steelsurge\x0a\
+G max depletion\x0a\
+G max one blow\x0aG\
+ max rapid flow\x0a\
+Tera blast\x0aSilk \
+trap\x0aAxe kick\x0aLa\
+st respects\x0aLumi\
+na crash\x0aOrder u\
+p\x0aJet punch\x0aSpic\
+y extract\x0aSpin o\
+ut\x0aPopulation bo\
+mb\x0aIce spinner\x0aG\
+laive rush\x0aReviv\
+al blessing\x0aSalt\
+ cure\x0aTriple div\
+e\x0aMortal spin\x0aDo\
+odle\x0aFillet away\
+\x0aKowtow cleave\x0aF\
+lower trick\x0aTorc\
+h song\x0aAqua step\
+\x0aRaging bull\x0aMak\
+e it rain\x0aRuinat\
+ion\x0aCollision co\
+urse\x0aElectro dri\
+ft\x0aShed tail\x0aChi\
+lly reception\x0aTi\
+dy up\x0aSnowscape\x0a\
+Pounce\x0aTrailblaz\
+e\x0aChilling water\
+\x0aHyper drill\x0aTwi\
+n beam\x0aRage fist\
+\x0aArmor cannon\x0aBi\
+tter blade\x0aDoubl\
+e shock\x0aGigaton \
+hammer\x0aComeuppan\
+ce\x0aAqua cutter\x0aB\
+lazing torque\x0aWi\
+cked torque\x0aNoxi\
+ous torque\x0aComba\
+t torque\x0aMagical\
+ torque\x0aPsyblade\
+\x0aHydro steam\x0aBlo\
+od moon\x0aMatcha g\
+otcha\x0aSyrup bomb\
+\x0aIvy cudgel\x0aElec\
+tro shot\x0aTera st\
+arstorm\x0aFickle b\
+eam\x0aBurning bulw\
+ark\x0aThunderclap\x0a\
+Mighty cleave\x0aTa\
+chyon cutter\x0aHar\
+d press\x0aDragon c\
+heer\x0aAlluring vo\
+ice\x0aTemper flare\
+\x0aSupercell slam\x0a\
+Psychic noise\x0aUp\
+per hand\x0aMaligna\
+nt chain\
 "
 
 qt_resource_name = b"\
@@ -1266,7 +1266,7 @@ qt_resource_struct = b"\
 \x00\x00\x00\x16\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\
 \x00\x00\x01\x8e\xcd\xbbc;\
 \x00\x00\x002\x00\x00\x00\x00\x00\x01\x00\x00\x22\xc9\
-\x00\x00\x01\x8e\xcd\xc7\xfcn\
+\x00\x00\x01\x8e\xdc\xdc\x8e\x9d\
 "
 
 def qInitResources():
