@@ -22,13 +22,17 @@ set(PROJECT_SOURCES
         src/ui/pokemon/pokemonwindow.cpp
         # Source File for UI of Move Window
         src/ui/move/movewindow.cpp
+        # Source File for UI of Item Window
+        src/ui/item/itemwindow.cpp
         # Header Files for UI of Main Window
         include/ui/mainwindow/mainwindow.h
         include/ui/mainwindow/aboutpokedex.h
-        # Head File for UI of Pokemon Windows
+        # Header File for UI of Pokemon Windows
         include/ui/pokemon/pokemonwindow.h
-        # Head File for UI of Move Window
+        # Header File for UI of Move Window
         include/ui/move/movewindow.h
+        # Header File for UI of Item Window
+        include/ui/item/itemwindow.h
         # Form Files for UI of Main Windows
         forms/mainwindow/mainwindow.ui
         forms/mainwindow/aboutpokedex.ui
@@ -36,6 +40,8 @@ set(PROJECT_SOURCES
         forms/pokemon/pokemonwindow.ui
         # Form File for UI of Move Window
         forms/move/movewindow.ui
+        # Form File for UI of Item Window
+        forms/item/itemwindow.ui
         # Resource FIles for Database
         resources/database/Database.qrc
 )
