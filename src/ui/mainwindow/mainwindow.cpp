@@ -4,7 +4,6 @@
 #include "../../../include/ui/mainwindow/aboutpokedex.h"
 #include <qfile.h>
 #include <qtextstream.h>
-#include "../../../include/ui/pokemon/bulbasaur.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -75,11 +74,11 @@ void MainWindow::addAbility(){
 
 void MainWindow::on_pushButton_PokemonData_clicked()
 {
-    // Opens a Dialog box if Bulbasaur is selected on Combobox
-    if (ui->comboBox_Pokemon->currentText() == "Bulbasaur"){
-        bulbasaur bulbasaurdata;
-        bulbasaurdata.setModal(true);
-        bulbasaurdata.exec();
-    }
+    // // Opens a Dialog box if Bulbasaur is selected on Combobox
+    // if (ui->comboBox_Pokemon->currentText() == "Bulbasaur"){
+    //     bulbasaur bulbasaurdata;
+    //     bulbasaurdata.setModal(true);
+    //     bulbasaurdata.exec();
+    // }
 }
 
