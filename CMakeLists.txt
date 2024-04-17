@@ -15,21 +15,27 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 set(PROJECT_SOURCES
         # Main Source FIle
         src/main.cpp
-        # Source Files for UI of Main Window
+        # Source Files for UI of Main Windows
         src/ui/mainwindow/mainwindow.cpp
         src/ui/mainwindow/aboutpokedex.cpp
-        # Source File for UI of Pokemon Windows
+        # Source File for UI of Pokemon Window
         src/ui/pokemon/pokemonwindow.cpp
+        # Source File for UI of Move Window
+        src/ui/move/movewindow.cpp
         # Header Files for UI of Main Window
         include/ui/mainwindow/mainwindow.h
         include/ui/mainwindow/aboutpokedex.h
         # Head File for UI of Pokemon Windows
         include/ui/pokemon/pokemonwindow.h
-        # Form Files for UI of Main Window
+        # Head File for UI of Move Window
+        include/ui/move/movewindow.h
+        # Form Files for UI of Main Windows
         forms/mainwindow/mainwindow.ui
         forms/mainwindow/aboutpokedex.ui
-        # Form File for UI of Pokemon Windows
+        # Form File for UI of Pokemon Window
         forms/pokemon/pokemonwindow.ui
+        # Form File for UI of Move Window
+        forms/move/movewindow.ui
         # Resource FIles for Database
         resources/database/Database.qrc
 )
