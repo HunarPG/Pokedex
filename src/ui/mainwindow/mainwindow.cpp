@@ -79,6 +79,7 @@ void MainWindow::on_pushButton_PokemonData_clicked()
 {
     PokemonWindow pokemonwindow;
     pokemonwindow.setModal(true);
+    pokemonwindow.setWindowTitle(ui->comboBox_Pokemon->currentText());
     pokemonwindow.exec();   
 }
 
@@ -87,6 +88,7 @@ void MainWindow::on_pushButton_MoveData_clicked()
 {
     MoveWindow movewindow;
     movewindow.setModal(true);
+    movewindow.setWindowTitle(ui->comboBox_Move->currentText());
     movewindow.exec();
 }
 
@@ -95,6 +97,7 @@ void MainWindow::on_pushButton_AbilityData_clicked()
 {
     ItemWindow itemwindow;
     itemwindow.setModal(true);
+    itemwindow.setWindowTitle(ui->combobox_Ability->currentText());
     itemwindow.exec();
 
 }
