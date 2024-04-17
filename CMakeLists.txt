@@ -18,15 +18,18 @@ set(PROJECT_SOURCES
         # Source Files for UI of Main Window
         src/ui/mainwindow/mainwindow.cpp
         src/ui/mainwindow/aboutpokedex.cpp
-        # Source Files for UI of Pokemon Windows
+        # Source File for UI of Pokemon Windows
+        src/ui/pokemon/pokemonwindow.cpp
         # Header Files for UI of Main Window
         include/ui/mainwindow/mainwindow.h
         include/ui/mainwindow/aboutpokedex.h
-        # Head Files for UI of Pokemon Windows
+        # Head File for UI of Pokemon Windows
+        include/ui/pokemon/pokemonwindow.h
         # Form Files for UI of Main Window
         forms/mainwindow/mainwindow.ui
         forms/mainwindow/aboutpokedex.ui
-        # Form Files for UI of Pokemon Windows
+        # Form File for UI of Pokemon Windows
+        forms/pokemon/pokemonwindow.ui
         # Resource FIles for Database
         resources/database/Database.qrc
 )
