@@ -22,6 +22,8 @@ private slots:
     void on_actionAbout_Qt_triggered();
     void on_actionAbout_Pokedex_triggered();
     void on_pushButton_PokemonData_clicked();
+    void on_pushButton_MoveData_clicked();
+    void on_pushButton_AbilityData_clicked();
     void addPokemon();
     void addMove();
     void addAbility();

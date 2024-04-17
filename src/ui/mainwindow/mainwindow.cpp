@@ -1,8 +1,11 @@
-#include "../../../include/ui/mainwindow/mainwindow.h"
 #include "../../../forms/mainwindow/ui_mainwindow.h"
-#include <qmessagebox.h>
+#include "../../../include/ui/mainwindow/mainwindow.h"
 #include "../../../include/ui/mainwindow/aboutpokedex.h"
+#include "../../../include/ui/pokemon/pokemonwindow.h"
+#include "../../../include/ui/move/movewindow.h"
+#include "../../../include/ui/item/itemwindow.h"
 #include <qfile.h>
+#include <qmessagebox.h>
 #include <qtextstream.h>
 
 MainWindow::MainWindow(QWidget *parent)
@@ -74,11 +77,25 @@ void MainWindow::addAbility(){
 
 void MainWindow::on_pushButton_PokemonData_clicked()
 {
-    // // Opens a Dialog box if Bulbasaur is selected on Combobox
-    // if (ui->comboBox_Pokemon->currentText() == "Bulbasaur"){
-    //     bulbasaur bulbasaurdata;
-    //     bulbasaurdata.setModal(true);
-    //     bulbasaurdata.exec();
-    // }
+    PokemonWindow pokemonwindow;
+    pokemonwindow.setModal(true);
+    pokemonwindow.exec();   
+}
+
+
+void MainWindow::on_pushButton_MoveData_clicked()
+{
+    MoveWindow movewindow;
+    movewindow.setModal(true);
+    movewindow.exec();
+}
+
+
+void MainWindow::on_pushButton_AbilityData_clicked()
+{
+    ItemWindow itemwindow;
+    itemwindow.setModal(true);
+    itemwindow.exec();
+
 }
 
